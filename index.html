@@ -167,7 +167,7 @@
                 <div class="tire ok" id="t-rr"><div class="pos">Rear Right</div><div class="psi">--</div></div>
             </div>
         </div>
-        <div class="card"><h2>🔋 Battery Health</h2><div class="chart-box" style="height:200px"><canvas id="c-bat"></canvas></div><p style="color:var(--text-dim);font-size:.78rem;text-align:center;margin-top:.5rem">Estimated max range (303 mi new)</p></div>
+        <div class="card"><h2>🔋 Battery Health</h2><div class="chart-box" style="height:200px"><canvas id="c-bat"></canvas></div><p style="color:var(--text-dim);font-size:.78rem;text-align:center;margin-top:.5rem">Estimated max range (279 mi new)</p></div>
     </div>
 
     <div class="card fade-in">
@@ -286,7 +286,7 @@ async function init(){
     }
 
     // Battery chart (sample)
-    new Chart($('c-bat'),{type:'line',data:{labels:dates.filter((_,i)=>i%3===0),datasets:[{data:dates.filter((_,i)=>i%3===0).map((_,i)=>303-i*0.3-Math.random()*0.5),borderColor:'#8b5cf6',backgroundColor:'rgba(139,92,246,0.1)',fill:true,tension:.4,pointRadius:2}]},options:{...CHART_OPTS,scales:{...CHART_OPTS.scales,y:{...CHART_OPTS.scales.y,min:270,max:310,title:{display:true,text:'Max Range (mi)',color:'#55556a',font:{size:11}}}}}});
+    new Chart($('c-bat'),{type:'line',data:{labels:dates.filter((_,i)=>i%3===0),datasets:[{data:dates.filter((_,i)=>i%3===0).map((_,i)=>279-i*0.3-Math.random()*0.5),borderColor:'#8b5cf6',backgroundColor:'rgba(139,92,246,0.1)',fill:true,tension:.4,pointRadius:2}]},options:{...CHART_OPTS,scales:{...CHART_OPTS.scales,y:{...CHART_OPTS.scales.y,min:250,max:285,title:{display:true,text:'Max Range (mi)',color:'#55556a',font:{size:11}}}}}});
 
     // Table
     const tbody=$('tbl');
