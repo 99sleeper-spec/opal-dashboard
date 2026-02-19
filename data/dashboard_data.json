@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-19T10:44:05.124888",
+  "updated_at": "2026-02-19T11:01:20.581456",
   "vehicle": {
     "year": 2024,
     "model": "Model Y Performance",
@@ -25,7 +25,7 @@
     },
     "resale_value": 0
   },
-  "ai_insight": "## Tesla Weekly Ownership Snapshot\n\n**Week in Review: Quiet Week \u2014 No Miles, No Charges Logged**\n\nLooks like the Model Y sat tight this week \u2014 zero miles, zero charges, and zero activity in the books, so there's not much to analyze on the efficiency front. What *is* worth noting is where things stand on the bigger picture: you're currently **-$1,667.90 net** on your break-even journey against that $38,030 Tesla premium, and with insurance costing you an extra **$2,217/year** ($119/month), every idle week is a small step backward since that clock keeps ticking regardless of miles driven. The bright side is that **$549.10 in cumulative maintenance savings** is already stacking up \u2014 oil changes, filters, and brake wear the CX-5 would've demanded by now \u2014 and your all-time efficiency of **103.2 MPGe** across nearly 30,000 miles shows the car earns its keep when it's moving. **This week's recommendation:** if the car was parked all week, double-check that you're not leaving it plugged in at a high state of charge for extended periods \u2014 keeping it between 20\u201380% SOC during storage weeks extends long-term battery health. Interesting footnote: your most recent Supercharger stop in Cleveland cost just **$5.23 for 15.41 kWh at $0.34/kWh** \u2014 that's actually one of your cheaper per-kWh SC sessions, suggesting off-peak timing is working in your favor on road trips.",
+  "ai_insight": "# Tesla Weekly Ownership Report\n### Week of December 19, 2025\n\n---\n\nLooks like the car sat completely still this week \u2014 zero miles, zero charges at home, but you did swing by the **Cleveland Supercharger** and added **15.41 kWh for $5.23** (about **33.9 cents/kWh**), which is actually one of your better Supercharger rates lately compared to that Chattanooga session way back at **39 cents/kWh**. With no driving data to analyze, efficiency trends are on pause, but your all-time picture remains solid at roughly **103 MPG equivalent** across nearly **30,000 miles**. The tough reality right now is that your breakeven tracker is sitting at **-4.4% progress** against that **$38,030 Tesla premium**, and the **$2,217/year insurance bump** continues to be the heaviest anchor \u2014 you've accumulated about **$549 in maintenance savings** but net savings are still **-$1,668** in the hole. My recommendation this week: if you're logging Supercharger stops without corresponding odometer entries, try to capture those \u2014 missing mileage data is creating gaps that make your true efficiency picture fuzzier than it needs to be. The most interesting thing? That Cleveland SC stop with no miles logged suggests a road trip either just started or just ended \u2014 curious to see what efficiency numbers come back with next week's data! \ud83d\ude97\u26a1",
   "charge_history": [
     {
       "date": "2024-08-03",
