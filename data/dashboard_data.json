@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-20T14:36:03.260646",
+  "updated_at": "2026-02-20T14:50:19.452275",
   "vehicle": {
     "year": 2024,
     "model": "Model Y Performance",
@@ -8,24 +8,24 @@
     "previous_vehicle": "2016 Mazda CX-5 FWD Sport 2.5L"
   },
   "summary": {
-    "total_charges": 581,
+    "total_charges": 580,
     "total_miles": 29896.90000000026,
     "total_kwh": 8022.000000080118,
-    "total_electricity_cost": 1149.970855936993,
-    "total_fuel_savings": 1785.084369,
-    "avg_gas_equiv_mpg": 35370344827671.5,
+    "total_electricity_cost": 1149.9742839369928,
+    "total_fuel_savings": 1785.080941,
+    "avg_gas_equiv_mpg": 85.5,
     "breakeven": {
       "net_savings": 114.23,
       "fuel_savings": 1785.08,
       "maintenance_savings": 550.07,
       "insurance_cost": 2220.92,
       "breakeven_pct": 0.3,
-      "months_remaining": 6171.7,
+      "months_remaining": 6171.9,
       "tesla_premium": 38030.0
     },
     "resale_value": 40875
   },
-  "ai_insight": "## Weekly Tesla Analysis \u2014 Week of Feb 17\u201321, 2026\n\n**Efficiency is looking strong this week.** You put 486 miles on the odometer across 8 charge sessions and hit a 104 MPG equivalent, which is solid performance \u2014 especially with that 66\u00b0F outside temp on your last recorded charge making conditions favorable for battery efficiency. The split between home and Supercharger charging (2 home, 0 SC this week) is exactly the pattern you want: at $0.1154/kWh at home versus the ~$0.39/kWh you were paying at Superchargers back at the start, you're squeezing maximum value out of every session, and your $15.81 weekly cost reflects that discipline.\n\n**On savings, you've now crossed $1,785 in cumulative fuel savings** \u2014 but the honest picture is that with $2,220 in extra insurance costs already absorbed and a $38,030 premium to recoup, your net position sits at just $114 ahead, meaning you're only 0.3% of the way to true break-even. That 514-year break-even timeline is the math working against you, but it's the reality of a performance EV versus a paid-off CX-5.\n\n**This week's recommendation:** That February 20th charge was interrupted by a software update mid-session \u2014 worth keeping an eye on whether 2025.45.9.1 delivered any efficiency or range improvements, since a post-update range check against your 254.2-mile max could tell you if that 8.9% degradation figure has budged at all.\n\n**The surprising detail this week?** Your February 21st home charge added 37.95 kWh but logged zero miles driven \u2014 meaning you essentially pre-loaded $4.38 worth of electricity onto a stationary car, which technically dinged your cumulative savings by that amount. It's a bookkeeping quirk, but your *real* cumulative savings are closer to $1,789 once you account for that charge being unmatched to any trip yet.",
+  "ai_insight": "# Weekly Tesla Analysis \u2014 Week of Feb 20, 2026\n\n**Efficiency is looking solid this week** \u2014 you averaged 86.8 MPGe across 486 miles, which is actually a meaningful jump compared to your all-time baseline, and that big 201.9-mile session logged on Feb 20 still pulled off 74.2 MPGe despite the longer haul. The 66\u00b0F outside temp clearly helped, and with HVAC off, you weren't bleeding range to climate control \u2014 that's a textbook efficient driving day. **Your savings hit $1,785.08 all-time this week**, adding $30.70 to the ledger, and you're now 0.3% of the way to breaking even on that $38,030 Tesla premium \u2014 honestly, the insurance delta ($119/month = ~$1,428/year) is the real villain here slowing your breakeven down, not the fuel costs. **This week's recommendation: that front-right tire at 41.0 PSI needs air** \u2014 it's 2+ PSI below your other three tires (43.5\u201343.9 PSI) and at 8.9% battery degradation with a 254-mile max range, you want every free efficiency point you can get. The wildest thing in your data? **Charge #2 on Feb 20 logged 60.77 kWh added** \u2014 but you only went from 20% to 80% SOC, which on a Model Y Performance should be roughly 57\u201360 kWh, so that tracks, except the charge power shows **0 kW**, suggesting that software update interruption may have scrambled some logging \u2014 worth double-checking your app history to make sure the data captured correctly.",
   "charge_history": [
     {
       "date": "2024-08-04",
@@ -3788,8 +3788,8 @@
       "date": "2025-05-10",
       "miles": 47.41236822,
       "kwh": 12.71125592,
-      "cost": 0.0,
-      "gas_mpg": 1.02574e+16,
+      "cost": 0,
+      "gas_mpg": 10.18181818,
       "gas_price": 2.75,
       "savings": 4.656571879,
       "soc_before": "",
@@ -3801,8 +3801,8 @@
       "date": "2025-05-11",
       "miles": 47.41236822,
       "kwh": 12.71125592,
-      "cost": 0.0,
-      "gas_mpg": 1.02574e+16,
+      "cost": 0,
+      "gas_mpg": 10.18181818,
       "gas_price": 2.75,
       "savings": 4.656571879,
       "soc_before": "",
@@ -7557,27 +7557,14 @@
     {
       "date": "2026-02-20",
       "miles": 201.9,
-      "kwh": 22.82,
-      "cost": 2.63,
-      "gas_mpg": 197.8312928,
+      "kwh": 60.7705,
+      "cost": 7.0129157,
+      "gas_mpg": 74.19115276,
       "gas_price": 2.577,
-      "savings": 15.95201071,
+      "savings": 11.56909501,
       "soc_before": 20,
-      "soc_after": 53,
-      "temp": 66.2,
-      "charge_type": "home"
-    },
-    {
-      "date": "2026-02-21",
-      "miles": 0.0,
-      "kwh": 37.9505,
-      "cost": 4.3794877,
-      "gas_mpg": 0.0,
-      "gas_price": 2.577,
-      "savings": -4.3794877,
-      "soc_before": 53,
       "soc_after": 80,
-      "temp": "",
+      "temp": 66.2,
       "charge_type": "home"
     }
   ]
