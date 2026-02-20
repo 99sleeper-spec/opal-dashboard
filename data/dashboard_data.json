@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-20T14:55:07.255858",
+  "updated_at": "2026-02-20T14:58:22.762032",
   "vehicle": {
     "year": 2024,
     "model": "Model Y Performance",
@@ -25,7 +25,7 @@
     },
     "resale_value": 40875
   },
-  "ai_insight": "## Week of Feb 14\u201320, 2026 \u2014 Tesla Ownership Recap\n\nYour efficiency story this week is a bit of a split \u2014 the week wrapped up with a strong **74.2 MPGe** session on that big 201.9-mile home charge Thursday, but your weekly average landed at **86.8 MPGe**, which is actually solid and suggests the bulk of your driving was efficient city/suburban miles. The tire situation from last week appears to still be a factor: that front-right at **41.0 PSI** vs. the others at 43.5\u201343.9 PSI is a measurable drag on range, and with 8.9% battery degradation already trimming your max range to **254.2 miles**, you really don't want to leave free efficiency on the table \u2014 just top it off. On the savings front, you crossed **$1,785.08 in cumulative fuel savings** this week, adding $30.70 in savings on just $15.82 worth of electricity to drive **486 miles** \u2014 that's the home charging rate of **$0.1154/kWh** doing serious work. Breakeven progress remains the long game though: with only **0.3% of the $38,030 Tesla premium recovered** via net savings ($114.23), the insurance delta is still the math villain eating your gains at ~$119/month extra. The surprising nugget this week: you plugged in **7 times but only 1 was a home charge** \u2014 given home charging is 3x cheaper than your Supercharger history (~$0.115 vs. ~$0.344/kWh), leaning harder into overnight home sessions would be the single highest-ROI habit change you could make right now.",
+  "ai_insight": "## Week of Feb 14\u201320, 2026 \u2014 Tesla Ownership Recap\n\nYour efficiency story this week is a tale of two charges \u2014 that 201.9-mile session on Feb 20th only hit **74.2 MPGe**, noticeably below your weekly average of **86.8 MPGe**, and the AI notes flag a software update interruption as the likely culprit, which probably forced a partial charge cycle and threw off the numbers. The good news is your tire pressure is mostly solid (43.5\u201343.9 PSI on three corners), though that **front-right at 41.0 PSI** is still lagging \u2014 a 2\u20133 PSI gap like that quietly costs you range every single mile, so top it off this week. You drove **486 miles for just $15.82**, saving **$30.70 versus your old CX-5** in a single week, pushing your all-time fuel savings to **$1,785.08** across 580 charges \u2014 which sounds great until you remember you're still only **0.3% of the way to breaking even** on that $38,030 Tesla premium, with the insurance delta alone eating $119/month. The one thing worth flagging this week: with **battery degradation at 8.9%** and max range down to **254.2 miles** after just ~18 months and 29,900 miles, that's tracking on the steeper end \u2014 worth keeping an eye on as mileage climbs.",
   "charge_history": [
     {
       "date": "2024-08-04",
@@ -7487,7 +7487,7 @@
       "soc_before": "",
       "soc_after": "",
       "temp": "",
-      "charge_type": "Home"
+      "charge_type": "home"
     },
     {
       "date": "2026-02-15",
@@ -7500,7 +7500,7 @@
       "soc_before": "",
       "soc_after": "",
       "temp": "",
-      "charge_type": "Home"
+      "charge_type": "home"
     },
     {
       "date": "2026-02-16",
@@ -7513,7 +7513,7 @@
       "soc_before": "",
       "soc_after": "",
       "temp": "",
-      "charge_type": "Home"
+      "charge_type": "home"
     },
     {
       "date": "2026-02-17",
@@ -7526,7 +7526,7 @@
       "soc_before": "",
       "soc_after": "",
       "temp": "",
-      "charge_type": "Home"
+      "charge_type": "home"
     },
     {
       "date": "2026-02-18",
@@ -7539,7 +7539,7 @@
       "soc_before": "",
       "soc_after": "",
       "temp": "",
-      "charge_type": "Home"
+      "charge_type": "home"
     },
     {
       "date": "2026-02-19",
@@ -7552,7 +7552,7 @@
       "soc_before": "",
       "soc_after": "",
       "temp": "",
-      "charge_type": "Home"
+      "charge_type": "home"
     },
     {
       "date": "2026-02-20",
