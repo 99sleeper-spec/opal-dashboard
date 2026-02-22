@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-20T15:12:27.510528",
+  "updated_at": "2026-02-22T08:00:13.721482",
   "vehicle": {
     "year": 2024,
     "model": "Model Y Performance",
@@ -8,24 +8,24 @@
     "previous_vehicle": "2016 Mazda CX-5 FWD Sport 2.5L"
   },
   "summary": {
-    "total_charges": 580,
-    "total_miles": 29896.90000000026,
-    "total_kwh": 8022.000000080118,
-    "total_electricity_cost": 1149.9742839369928,
-    "total_fuel_savings": 1785.080941,
+    "total_charges": 582,
+    "total_miles": 29971.26326000026,
+    "total_kwh": 8042.200000080118,
+    "total_electricity_cost": 1152.3042468519932,
+    "total_fuel_savings": 1789.61,
     "avg_gas_equiv_mpg": 69.9,
     "breakeven": {
-      "net_savings": 114.23,
-      "fuel_savings": 1785.08,
-      "maintenance_savings": 550.07,
-      "insurance_cost": 2220.92,
+      "net_savings": 112.85,
+      "fuel_savings": 1789.61,
+      "maintenance_savings": 552.01,
+      "insurance_cost": 2228.77,
       "breakeven_pct": 0.3,
-      "months_remaining": 6171.9,
+      "months_remaining": 6269.4,
       "tesla_premium": 38030.0
     },
-    "resale_value": 40875
+    "resale_value": 40845
   },
-  "ai_insight": "## Week of Feb 14\u201320, 2026 \u2014 Tesla Ownership Recap\n\nYour efficiency this week was **solid but uneven** \u2014 you averaged **82.1 MPGe** across 486 miles and 7 home charges, though that big 201.9-mile single-session charge on Feb 20 (pulling from 20% to 80%) dragged your per-session average down a bit, suggesting some longer driving days mixed in with the usual short hops. The good news on costs: you spent just **$15.82 to drive 486 miles** and saved **$30.70 compared to what the CX-5 would have cost** \u2014 that's nearly a 2:1 savings ratio, which is exactly what home-only charging weeks look like at your excellent **$0.1154/kWh rate**. Your cumulative savings just crossed **$1,785**, but the breakeven picture remains a long road \u2014 with only **0.3% of the $38,030 Tesla premium recovered** and maintenance/insurance math still working against you, you're realistically looking at years of consistent home charging discipline to close that gap. **This week's action item:** that front-right tire at 41.0 PSI needs air \u2014 it's sitting 2+ PSI below your other three tires (43.5\u201343.9 PSI), and at 8.9% battery degradation with a 254-mile max range, you want every free efficiency win you can get. The fun surprise: your very first charge back in August 2024 at the Chattanooga Supercharger actually *lost* you money \u2014 **-$0.50 in savings** \u2014 and now you're pulling in $3\u201311 per charge at home; quite a glow-up from road trip mode to optimized daily driver.",
+  "ai_insight": "## Weekly Tesla Analysis \u2014 Week of Feb 22, 2026\n\nYour efficiency came in at **81.0 MPGe** this week across **465.9 miles**, which is actually solid \u2014 right in line with your recent home-charging baseline and a reflection of mild 59\u00b0F weather keeping HVAC demand low (HVAC off on both logged sessions). The one thing quietly nagging at your numbers is that **front-right tire at 40.6 PSI**, which has been the odd one out for at least two consecutive sessions while the other three sit comfortably at 42\u201343.5 PSI \u2014 that imbalance is a small but real drag on efficiency and worth a 2-minute fix this week. On the savings front, you crossed **$1,789.61 cumulative** and you're now just **$10.39 shy of the $1,800 milestone**, which you'll almost certainly clear on your very next charge. Break-even progress remains the long game at only **0.3% of the $38,030 Tesla premium recovered**, but your **$28.85 in weekly fuel savings** is doing the steady work. The genuinely surprising thing this week: your battery degradation actually *improved* from 8.6% to **8.5%** following the 2025.45.10 software update \u2014 that's likely a BMS recalibration rather than physical recovery, but it's a nice reminder that Tesla's software actively manages how your pack is reported and utilized.",
   "charge_history": [
     {
       "date": "2024-08-04",
@@ -8137,14 +8137,42 @@
       "date": "2026-02-20",
       "miles": 201.9,
       "kwh": 60.7705,
-      "cost": 7.0129157,
-      "gas_mpg": 74.19115276,
+      "cost": 7.014738815,
+      "gas_mpg": 74.17187065,
       "gas_price": 2.577,
-      "equiv_gallons": 2.721348739,
-      "savings": 11.56909501,
+      "equiv_gallons": 2.722056195,
+      "savings": 11.5672719,
       "soc_before": 20,
       "soc_after": 80,
       "temp": 66.2,
+      "charge_type": "home"
+    },
+    {
+      "date": "2026-02-20",
+      "miles": 36.46326,
+      "kwh": 9.86,
+      "cost": 1.1381398,
+      "gas_mpg": 83.26571405,
+      "gas_price": 2.599,
+      "equiv_gallons": 0.4379145056,
+      "savings": 2.246432455,
+      "soc_before": 66,
+      "soc_after": 80,
+      "temp": 59.9,
+      "charge_type": "home"
+    },
+    {
+      "date": "2026-02-22",
+      "miles": 37.9,
+      "kwh": 10.34,
+      "cost": 1.19,
+      "gas_mpg": 81.6,
+      "gas_price": 2.562,
+      "equiv_gallons": 0.46,
+      "savings": 2.28,
+      "soc_before": 65,
+      "soc_after": 80,
+      "temp": 59.9,
       "charge_type": "home"
     }
   ]
