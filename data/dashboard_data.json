@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-06T05:01:07.516387",
+  "updated_at": "2026-03-06T05:03:33.876441",
   "vehicle": {
     "year": 2024,
     "model": "Model Y Performance",
@@ -25,7 +25,7 @@
     },
     "resale_value": 40634
   },
-  "ai_insight": "# Weekly Tesla Analysis \u2014 Week of March 4\u20135, 2026\n\nYour efficiency trend is **sharply improving** \u2014 you went from 78.9 MPGe on March 4 to a standout **98.1 MPGe on March 5**, and your weekly average of **77.1 MPGe** is solid, though that single 98.1 session hints at what's possible as temperatures climb into the mid-60s\u00b0F. The warming weather is clearly the star here \u2014 both charges happened with HVAC off, temps in the 61\u201365\u00b0F sweet spot, and tire pressures that got a noticeable bump between sessions (42s \u2192 44\u201345 PSI range), all of which compound nicely on efficiency. You drove **411 miles this week for just $14.01** \u2014 that's $24.77 saved versus filling up a CX-5, pushing your **cumulative savings to $1,833.97** and leaving you only about **$166 shy of the $2,000 milestone**, which you should crack in roughly 5\u20136 weeks at this pace. **My recommendation:** bleed FL down from 45 PSI to match the ~44.4 PSI average of the other three tires \u2014 uneven pressure across corners can create subtle handling asymmetry, and dialing it in could squeeze a bit more from those already-impressive efficiency numbers. The genuinely surprising thing? Your March 5 charge cost **$2.10 to cover 73.5 miles** \u2014 that's less than a McDonald's coffee to drive across town and back twice, and the CX-5 would've burned **$7.35** for the same trip.",
+  "ai_insight": "# Weekly Tesla Analysis \u2014 Week of March 4\u20135, 2026\n\n**Efficiency is on a clear upward trend** \u2014 you went from 78.9 MPGe on March 4 to a striking 98.1 MPGe on March 5, a 24% jump in a single day, and your weekly average of **77.1 MPGe** is comfortably above the 26 MPG baseline of your old CX-5. The warming temps (61\u219265\u00b0F) are doing real work here, and with HVAC off both sessions, you're keeping the battery's energy focused entirely on moving the car. **Savings-wise, you're sitting at $1,833.97 cumulative** \u2014 $166 shy of the $2,000 milestone \u2014 and this week's $24.77 in savings vs. the CX-5 cost you only $14.01, so the value proposition remains strong even with gas sitting at a modest ~$2.75/gal. **One thing to watch:** your tire pressures jumped noticeably between March 4 (42-43 PSI range) and March 5 (44-45 PSI range) \u2014 that FL tire at 45.0 PSI is running a bit hot, and bleeding all four down to a consistent 42-43 PSI will actually help with both efficiency and tire wear. The surprising bit? **98.1 MPGe is genuinely exceptional** \u2014 that's nearly 4x your old CX-5's efficiency, and if you string a few more sessions like that together, that $2,000 milestone could arrive within the next 5-6 weeks.",
   "charge_history": [
     {
       "date": "2024-08-04",
