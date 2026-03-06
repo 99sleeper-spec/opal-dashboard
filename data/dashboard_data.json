@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-06T05:03:33.876441",
+  "updated_at": "2026-03-06T05:06:16.389615",
   "vehicle": {
     "year": 2024,
     "model": "Model Y Performance",
@@ -25,7 +25,7 @@
     },
     "resale_value": 40634
   },
-  "ai_insight": "# Weekly Tesla Analysis \u2014 Week of March 4\u20135, 2026\n\n**Efficiency is on a clear upward trend** \u2014 you went from 78.9 MPGe on March 4 to a striking 98.1 MPGe on March 5, a 24% jump in a single day, and your weekly average of **77.1 MPGe** is comfortably above the 26 MPG baseline of your old CX-5. The warming temps (61\u219265\u00b0F) are doing real work here, and with HVAC off both sessions, you're keeping the battery's energy focused entirely on moving the car. **Savings-wise, you're sitting at $1,833.97 cumulative** \u2014 $166 shy of the $2,000 milestone \u2014 and this week's $24.77 in savings vs. the CX-5 cost you only $14.01, so the value proposition remains strong even with gas sitting at a modest ~$2.75/gal. **One thing to watch:** your tire pressures jumped noticeably between March 4 (42-43 PSI range) and March 5 (44-45 PSI range) \u2014 that FL tire at 45.0 PSI is running a bit hot, and bleeding all four down to a consistent 42-43 PSI will actually help with both efficiency and tire wear. The surprising bit? **98.1 MPGe is genuinely exceptional** \u2014 that's nearly 4x your old CX-5's efficiency, and if you string a few more sessions like that together, that $2,000 milestone could arrive within the next 5-6 weeks.",
+  "ai_insight": "# Weekly Tesla Analysis \u2014 Week of March 1\u20135, 2026\n\nYour efficiency had a genuinely impressive finish to the week \u2014 you went from a solid 78.9 MPGe on March 4 to a standout **98.1 MPGe on March 5**, which is one of your best readings in months and almost certainly tied to that 65\u00b0F outside temp combined with no HVAC load and a slightly lighter charge session (only 29% SOC added vs. 34% the day before). All 5 charges this week were at home, costing you just **$14.01 total for 411 miles** \u2014 that's roughly 3.4 cents per mile, and your weekly savings of **$24.77 vs. the CX-5** means you're now sitting at a cumulative **$1,833.97 saved**, with the **$2,000 milestone only about 7 weeks away** at your current pace. On the breakeven front, you've recovered about **$2,397.68 of your $38,030 Tesla premium** when combining fuel and maintenance savings ($1,833.97 + $563.68), which puts you at roughly **6.3% of the way there** \u2014 the insurance delta is the real drag here, so keep an eye on your renewal. This week's recommendation: your tire pressures on March 5 were running 2\u20133 PSI high across all four corners (FL at 45.0 PSI is notably above your ~42 PSI target), so a quick bleed before your next session could actually squeeze a few more MPGe out of what's already shaping up to be your best efficiency month yet. The genuinely surprising thing? You drove **411 miles on just 5 home charges** and never once touched a Supercharger \u2014 that's exceptional range management for a week's worth of real-world driving.",
   "charge_history": [
     {
       "date": "2024-08-04",
