@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-06T05:12:29.805063",
+  "updated_at": "2026-03-08T08:00:14.952935",
   "vehicle": {
     "year": 2024,
     "model": "Model Y Performance",
@@ -15,17 +15,17 @@
     "total_fuel_savings": 1839.32016,
     "avg_gas_equiv_mpg": 70.1,
     "breakeven": {
-      "net_savings": 127.14,
+      "net_savings": 121.23,
       "fuel_savings": 1839.32,
-      "maintenance_savings": 563.68,
-      "insurance_cost": 2275.86,
+      "maintenance_savings": 565.62,
+      "insurance_cost": 2283.71,
       "breakeven_pct": 0.3,
-      "months_remaining": 5680.4,
+      "months_remaining": 5978.5,
       "tesla_premium": 38030.0
     },
-    "resale_value": 40624
+    "resale_value": 40604
   },
-  "ai_insight": "## Week of March 6, 2026 \u2014 Tesla Ownership Recap\n\nYour efficiency story this week is genuinely impressive \u2014 you averaged **78.7 MPGe** across 489.6 miles, but that number is being dragged down by earlier cooler-weather sessions, because your last two charges came in at **98.1 and 88.1 MPGe** respectively, signaling a clear upward trend as spring temps arrive. The 65\u00b0F outside temp on your March 5th charge correlates directly with that 98.1 MPGe peak, so expect these numbers to keep climbing as we move deeper into March \u2014 warmer batteries are happier batteries. On the savings front, you crossed **$1,839.32 in cumulative fuel savings** this week, spending just **$16.50 to drive 489.6 miles** \u2014 your CX-5 would have cost roughly **$46.62** for the same distance at today's gas prices, meaning you're pocketing about **$30 every week** just in fuel alone. You're sitting at **0.3% of the way to breakeven** on the $38,030 Tesla premium, with roughly **5,680 months remaining** \u2014 that number is dominated by the insurance delta, so if you can shop your policy and close that ~$119/month gap, it would move the needle dramatically more than any efficiency gain ever could. Here's the surprising bit: your very **first two charges ever** were at a Chattanooga Supercharger at **$0.39/kWh**, which actually *cost* you money compared to the CX-5 \u2014 yet today you're charging at home for **$0.1154/kWh**, less than a third of that rate, which is the single biggest reason your savings have compounded to nearly $1,840 in under 19 months.",
+  "ai_insight": "## Week of March 3\u20136, 2026 | Tesla Model Y Performance Weekly Recap\n\nYour efficiency game is genuinely on a roll right now \u2014 you averaged **86.9 MPGe** this week across 274.6 miles, and that March 5th session hitting **98.1 MPGe** is a standout number that reflects what warmer temps (65\u00b0F outside) can do for your battery. Three home charges and zero Supercharger stops kept your cost remarkably low at **$8.66 for the week**, saving you **$18.28 versus what the CX-5 would've cost** \u2014 your cumulative savings now sit at **$1,839.32**, meaning you're just **$160.68 shy of the $2,000 milestone** and likely hitting it within the next 3-4 charges. The one thing worth acting on: your tire pressures from the March 5th log show all four tires running **2-3 PSI high** (FL at 45.0 PSI being the worst offender), and while overinflation can actually help rolling resistance slightly, it's outside Tesla's spec range and will wear your center tread unevenly over time. Here's the genuinely surprising part \u2014 you're only at **0.3% of breakeven** on the $38,030 Tesla premium after 19 months, with an estimated **498 years remaining**, which sounds brutal but really just underscores that fuel savings alone never close that gap \u2014 **resale value at $40,604 already exceeds your net purchase price**, so your real equity story is much healthier than the breakeven math suggests.",
   "charge_history": [
     {
       "date": "2024-08-04",
