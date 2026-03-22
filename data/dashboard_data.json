@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-15T08:00:15.740825",
+  "updated_at": "2026-03-22T08:00:14.148866",
   "vehicle": {
     "year": 2024,
     "model": "Model Y Performance",
@@ -8,24 +8,24 @@
     "previous_vehicle": "2016 Mazda CX-5 FWD Sport 2.5L"
   },
   "summary": {
-    "total_charges": 595,
-    "total_miles": 31142.763260000254,
-    "total_kwh": 8344.820000080119,
-    "total_electricity_cost": 1187.2368868519932,
-    "total_fuel_savings": 1873.01,
-    "avg_gas_equiv_mpg": 70.5,
+    "total_charges": 599,
+    "total_miles": 31497.06326000025,
+    "total_kwh": 8395.18000008012,
+    "total_electricity_cost": 1193.0468868519931,
+    "total_fuel_savings": 1910.56,
+    "avg_gas_equiv_mpg": 71.1,
     "breakeven": {
-      "net_savings": 134.26,
-      "fuel_savings": 1873.01,
-      "maintenance_savings": 572.42,
-      "insurance_cost": 2311.17,
+      "net_savings": 151.15,
+      "fuel_savings": 1910.56,
+      "maintenance_savings": 579.23,
+      "insurance_cost": 2338.64,
       "breakeven_pct": 0.4,
-      "months_remaining": 5461.5,
+      "months_remaining": 4906.8,
       "tesla_premium": 38030.0
     },
-    "resale_value": 40480
+    "resale_value": 40365
   },
-  "ai_insight": "## Week of March 10\u201312, 2026 \u2014 Ownership Week ~84\n\nWhat a week to end on \u2014 that **March 12th charge at 137.3 MPGe** for 211.6 miles is a legitimate standout, nearly double your early-March efficiency readings in the 79\u201398 MPGe range, and the warm 68\u00b0F temps combined with HVAC off and a long single-cycle drive are doing exactly what this car loves. Your weekly average of **165.5 MPGe** across 369.1 miles on just **$7.00 in electricity** is excellent \u2014 for context, that same mileage would've cost you roughly **$40.69 in the CX-5**, so you pocketed **$33.69 in savings this week alone**. Cumulative savings are now sitting at **$1,873.01**, meaning you're just **$126.99 from the $2,000 milestone** \u2014 at your current weekly savings pace, that could fall in the next 3\u20134 weeks. Keep an eye on that **RR tire**, which has been the consistent laggard at 40.2\u201342.4 PSI across both charges this week while the others are pushing 43\u201344 PSI \u2014 topping it up to match the group will protect both efficiency and tire wear. The genuinely surprising thing here is how dramatically a single long-haul drive (211.6 miles, 19\u219280% SOC) inflated your weekly average \u2014 without that March 12th session your week would've looked pretty ordinary, which is a good reminder that **how you drive matters as much as where you charge**.",
+  "ai_insight": "## Weekly Tesla Analysis \u2014 Week of March 17\u201321, 2026\n\nYour efficiency this week came in at **214.7 MPGe** across **354.3 miles** in 4 home charges, which is a solid warm-weather performance, though the back-to-back sessions show a bit of a spread \u2014 Thursday's 115.8 MPGe vs. Friday's 97.7 MPGe suggests some shorter, less efficient trips crept into the mix late in the week. The good news on costs is hard to argue with: **$5.81 to drive 354 miles** is remarkable, saving you **$37.55 vs. the CX-5** and pushing your all-time cumulative savings to **$1,910.56** \u2014 you're just **$89.44 away from the $2,000 milestone**, which at your current pace of roughly $40\u201345/week in savings is likely hitting *next week*. That RR tire at **41.3 PSI** has now been the persistent low outlier across at least four consecutive sessions despite the others trending higher (FR sitting at 43.5 PSI), which at this point really does suggest a slow leak worth investigating before it quietly costs you efficiency. The most surprising thing in the data? Your break-even on the **$38,030 Tesla premium** currently projects out to **4,906 months** \u2014 yes, that's ~409 years \u2014 which is a great reminder that the financial case for this car lives in the driving experience and lower running costs, not recouping the sticker premium against a $28K Mazda.",
   "charge_history": [
     {
       "date": "2024-08-04",
@@ -8355,6 +8355,62 @@
       "soc_before": 19,
       "soc_after": 80,
       "temp": 68,
+      "charge_type": "home"
+    },
+    {
+      "date": "2026-03-16",
+      "miles": 214.6,
+      "kwh": 10.1,
+      "cost": 1.17,
+      "gas_mpg": 610.0,
+      "gas_price": 3.326,
+      "equiv_gallons": 0.35,
+      "savings": 24.32,
+      "soc_before": 66,
+      "soc_after": 80,
+      "temp": 63.5,
+      "charge_type": "home"
+    },
+    {
+      "date": "2026-03-18",
+      "miles": 25.1,
+      "kwh": 7.3,
+      "cost": 0.84,
+      "gas_mpg": 104.3,
+      "gas_price": 3.494,
+      "equiv_gallons": 0.24,
+      "savings": 2.29,
+      "soc_before": 67,
+      "soc_after": 80,
+      "temp": 51.8,
+      "charge_type": "home"
+    },
+    {
+      "date": "2026-03-20",
+      "miles": 73.8,
+      "kwh": 19.84,
+      "cost": 2.29,
+      "gas_mpg": 115.8,
+      "gas_price": 3.592,
+      "equiv_gallons": 0.64,
+      "savings": 7.18,
+      "soc_before": 50,
+      "soc_after": 80,
+      "temp": 60.8,
+      "charge_type": "home"
+    },
+    {
+      "date": "2026-03-21",
+      "miles": 40.8,
+      "kwh": 13.12,
+      "cost": 1.51,
+      "gas_mpg": 97.7,
+      "gas_price": 3.615,
+      "equiv_gallons": 0.42,
+      "savings": 3.76,
+      "soc_before": 61,
+      "soc_after": 80,
+      "temp": 61.7,
       "charge_type": "home"
     }
   ]
