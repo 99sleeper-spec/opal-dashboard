@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-29T08:00:13.146621",
+  "updated_at": "2026-04-05T08:00:12.278631",
   "vehicle": {
     "year": 2024,
     "model": "Model Y Performance",
@@ -8,24 +8,24 @@
     "previous_vehicle": "2016 Mazda CX-5 FWD Sport 2.5L"
   },
   "summary": {
-    "total_charges": 602,
-    "total_miles": 31894.16326000025,
-    "total_kwh": 8451.90000008012,
-    "total_electricity_cost": 1199.5868868519933,
-    "total_fuel_savings": 1929.25,
-    "avg_gas_equiv_mpg": 71.3,
+    "total_charges": 603,
+    "total_miles": 31992.963260000248,
+    "total_kwh": 8474.78000008012,
+    "total_electricity_cost": 1202.2268868519934,
+    "total_fuel_savings": 1939.43,
+    "avg_gas_equiv_mpg": 71.4,
     "breakeven": {
-      "net_savings": 149.17,
-      "fuel_savings": 1929.25,
-      "maintenance_savings": 586.03,
-      "insurance_cost": 2366.11,
+      "net_savings": 138.69,
+      "fuel_savings": 1939.43,
+      "maintenance_savings": 592.83,
+      "insurance_cost": 2393.58,
       "breakeven_pct": 0.4,
-      "months_remaining": 5030.4,
+      "months_remaining": 5475.0,
       "tesla_premium": 38030.0
     },
-    "resale_value": 40244
+    "resale_value": 40160
   },
-  "ai_insight": "## Weekly Tesla Analysis \u2014 Week of March 24\u201329, 2026\n\nYour 397 miles this week cost just **$6.54** \u2014 all three charges were at home, which is exactly the kind of week that makes EV ownership feel like a no-brainer. Efficiency came in at a solid **181 MPGe**, consistent with recent warm-weather sessions in the low-to-mid 60s\u00b0F, and your battery degradation actually *improved* slightly from **8.9% to 8.7%** between the two logged charges, which is a nice data point even if it's likely just measurement noise. Your cumulative savings sit at **$1,929.25** \u2014 tantalizingly close to the **$2,000 milestone** \u2014 and the Mar 29 charge logged a **data entry gap** (gas price and CX-5 cost showing zero), meaning your *real* cumulative savings almost certainly already crossed $2,000 this week with ~203 miles of driving. The one thing that needs your attention isn't efficiency-related at all: your **rear-right tire has now dropped to 39.5 PSI**, down from 42.8 PSI just two sessions ago, and this slow-leak pattern has been flagged across at least six consecutive sessions \u2014 that's a nail or valve stem issue, not a pressure fluctuation, and it genuinely needs a tire shop visit before it becomes a roadside problem.\n\n**Fix the RR tire this week** \u2014 a plug or valve stem repair is a $15\u201325 fix; a blowout at highway speed is not.",
+  "ai_insight": "## Weekly Tesla Analysis \u2014 Week of March 31, 2026\n\nYour efficiency this week was **135.3 MPGe** on 98.8 miles, which is essentially dead-on with your warm-weather baseline \u2014 consistent with the 136-137 MPGe range you've been hitting as temps climb into the mid-to-upper 60s, so the trend is **stable and healthy**. Tire pressures finally look dramatically better across the board (FL 42.8, FR 43.5, RL 42.8, RR 41.0), which likely contributed to keeping efficiency solid, though that **RR tire at 41.0 PSI is still the persistent outlier** \u2014 it's now been flagged below target for 7+ consecutive sessions and sits 2.5 PSI below FR, which at this point is a slow-leak until proven otherwise. On the savings front, you crossed **$1,939.43 in cumulative fuel savings** this week, and at $10.18 saved this charge, you are genuinely **one normal charge away from the $2,000 milestone** \u2014 get excited. **This week's recommendation is simple: get that RR tire inspected by a professional**, not just topped off \u2014 a slow leak left unaddressed affects range, efficiency, and tire longevity, and the data has been screaming this for weeks. The fun/surprising stat: you drove 98.8 miles and spent **$2.64** \u2014 that's less than a gas station coffee, for nearly 100 miles.",
   "charge_history": [
     {
       "date": "2024-08-04",
@@ -8453,6 +8453,20 @@
       "soc_before": 48,
       "soc_after": 80,
       "temp": 61.7,
+      "charge_type": "home"
+    },
+    {
+      "date": "2026-03-31",
+      "miles": 98.8,
+      "kwh": 22.88,
+      "cost": 2.64,
+      "gas_mpg": 136.0,
+      "gas_price": 3.632,
+      "equiv_gallons": 0.73,
+      "savings": 10.18,
+      "soc_before": 45,
+      "soc_after": 80,
+      "temp": 67.1,
       "charge_type": "home"
     }
   ]
