@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-05T08:00:12.278631",
+  "updated_at": "2026-04-12T08:00:17.206007",
   "vehicle": {
     "year": 2024,
     "model": "Model Y Performance",
@@ -8,24 +8,24 @@
     "previous_vehicle": "2016 Mazda CX-5 FWD Sport 2.5L"
   },
   "summary": {
-    "total_charges": 603,
-    "total_miles": 31992.963260000248,
-    "total_kwh": 8474.78000008012,
-    "total_electricity_cost": 1202.2268868519934,
-    "total_fuel_savings": 1939.43,
-    "avg_gas_equiv_mpg": 71.4,
+    "total_charges": 607,
+    "total_miles": 32564.563260000246,
+    "total_kwh": 8536.200000080118,
+    "total_electricity_cost": 1213.1468868519935,
+    "total_fuel_savings": 2007.73,
+    "avg_gas_equiv_mpg": 72.3,
     "breakeven": {
-      "net_savings": 138.69,
-      "fuel_savings": 1939.43,
-      "maintenance_savings": 592.83,
-      "insurance_cost": 2393.58,
-      "breakeven_pct": 0.4,
-      "months_remaining": 5475.0,
+      "net_savings": 186.32,
+      "fuel_savings": 2007.73,
+      "maintenance_savings": 599.64,
+      "insurance_cost": 2421.04,
+      "breakeven_pct": 0.5,
+      "months_remaining": 4116.9,
       "tesla_premium": 38030.0
     },
-    "resale_value": 40160
+    "resale_value": 40017
   },
-  "ai_insight": "## Weekly Tesla Analysis \u2014 Week of March 31, 2026\n\nYour efficiency this week was **135.3 MPGe** on 98.8 miles, which is essentially dead-on with your warm-weather baseline \u2014 consistent with the 136-137 MPGe range you've been hitting as temps climb into the mid-to-upper 60s, so the trend is **stable and healthy**. Tire pressures finally look dramatically better across the board (FL 42.8, FR 43.5, RL 42.8, RR 41.0), which likely contributed to keeping efficiency solid, though that **RR tire at 41.0 PSI is still the persistent outlier** \u2014 it's now been flagged below target for 7+ consecutive sessions and sits 2.5 PSI below FR, which at this point is a slow-leak until proven otherwise. On the savings front, you crossed **$1,939.43 in cumulative fuel savings** this week, and at $10.18 saved this charge, you are genuinely **one normal charge away from the $2,000 milestone** \u2014 get excited. **This week's recommendation is simple: get that RR tire inspected by a professional**, not just topped off \u2014 a slow leak left unaddressed affects range, efficiency, and tire longevity, and the data has been screaming this for weeks. The fun/surprising stat: you drove 98.8 miles and spent **$2.64** \u2014 that's less than a gas station coffee, for nearly 100 miles.",
+  "ai_insight": "# Weekly Tesla Analysis \u2014 Week of April 11, 2026\n\n**The big headline this week: you officially cracked $2,007.73 in cumulative fuel savings**, clearing the $2,000 milestone you've been chasing since August 2024 \u2014 and you did it in style with a clean 571.6 miles across just 4 charges, all at home except zero Supercharger stops, costing you only **$10.92 for the week** versus roughly $79 it would've cost in the CX-5. Efficiency came in at a stellar **203 MPGe** for the week, which is strong for spring driving, though that April 11 session dipped to 121.9 MPGe on a deep 48\u219280% SOC swing \u2014 totally normal, just physics \u2014 while the 68-69\u00b0F temps are giving you that sweet spot before summer heat starts nibbling at range. Your **RR tire at 41.7 PSI is still the persistent troublemaker** across 10+ consecutive sessions, and with FR running at 43.9 PSI you've got nearly a 2.2 PSI imbalance that's quietly costing you efficiency and uneven wear \u2014 bleed FR down to 42 PSI, top off RR, and seriously just get it inspected for a slow leak this week. On the breakeven front, you've recovered **$2,607.37 combined** (fuel + maintenance savings) against a $38,030 premium, sitting at about **0.5% recouped** with 4,116 months remaining \u2014 that number is brutal, but it's purely a financial math exercise and doesn't account for resale value sitting at a healthy **$40,017**, which actually puts you *above* purchase net cost right now. The genuinely surprising stat: your **all-time average of 203 MPGe** is nearly *8x* the CX-5's 28 MPG \u2014 you're essentially driving 571 miles on the energy equivalent of 2.8 gallons of gas.",
   "charge_history": [
     {
       "date": "2024-08-04",
@@ -8467,6 +8467,62 @@
       "soc_before": 45,
       "soc_after": 80,
       "temp": 67.1,
+      "charge_type": "home"
+    },
+    {
+      "date": "2026-04-06",
+      "miles": 301.0,
+      "kwh": 16.3,
+      "cost": 5.71,
+      "gas_mpg": 203.2,
+      "gas_price": 3.854,
+      "equiv_gallons": 1.48,
+      "savings": 35.72,
+      "soc_before": 49,
+      "soc_after": 67,
+      "temp": 66.2,
+      "charge_type": "not_charging"
+    },
+    {
+      "date": "2026-04-08",
+      "miles": 131.8,
+      "kwh": 15.58,
+      "cost": 1.8,
+      "gas_mpg": 284.6,
+      "gas_price": 3.887,
+      "equiv_gallons": 0.46,
+      "savings": 16.5,
+      "soc_before": 55,
+      "soc_after": 80,
+      "temp": 66.2,
+      "charge_type": "home"
+    },
+    {
+      "date": "2026-04-10",
+      "miles": 64.6,
+      "kwh": 8.82,
+      "cost": 1.02,
+      "gas_mpg": 249.3,
+      "gas_price": 3.937,
+      "equiv_gallons": 0.26,
+      "savings": 8.06,
+      "soc_before": 64,
+      "soc_after": 80,
+      "temp": 68,
+      "charge_type": "home"
+    },
+    {
+      "date": "2026-04-11",
+      "miles": 74.2,
+      "kwh": 20.72,
+      "cost": 2.39,
+      "gas_mpg": 121.9,
+      "gas_price": 3.926,
+      "equiv_gallons": 0.61,
+      "savings": 8.02,
+      "soc_before": 48,
+      "soc_after": 80,
+      "temp": 68.9,
       "charge_type": "home"
     }
   ]
