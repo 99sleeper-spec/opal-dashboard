@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-12T08:00:17.206007",
+  "updated_at": "2026-04-19T08:00:18.452395",
   "vehicle": {
     "year": 2024,
     "model": "Model Y Performance",
@@ -8,24 +8,24 @@
     "previous_vehicle": "2016 Mazda CX-5 FWD Sport 2.5L"
   },
   "summary": {
-    "total_charges": 607,
-    "total_miles": 32564.563260000246,
-    "total_kwh": 8536.200000080118,
-    "total_electricity_cost": 1213.1468868519935,
-    "total_fuel_savings": 2007.73,
-    "avg_gas_equiv_mpg": 72.3,
+    "total_charges": 611,
+    "total_miles": 33239.96326000025,
+    "total_kwh": 8643.900000080119,
+    "total_electricity_cost": 1243.1368868519935,
+    "total_fuel_savings": 2070.39,
+    "avg_gas_equiv_mpg": 72.5,
     "breakeven": {
-      "net_savings": 186.32,
-      "fuel_savings": 2007.73,
-      "maintenance_savings": 599.64,
-      "insurance_cost": 2421.04,
-      "breakeven_pct": 0.5,
-      "months_remaining": 4116.9,
+      "net_savings": 228.32,
+      "fuel_savings": 2070.39,
+      "maintenance_savings": 606.44,
+      "insurance_cost": 2448.51,
+      "breakeven_pct": 0.6,
+      "months_remaining": 3394.0,
       "tesla_premium": 38030.0
     },
-    "resale_value": 40017
+    "resale_value": 39863
   },
-  "ai_insight": "# Weekly Tesla Analysis \u2014 Week of April 11, 2026\n\n**The big headline this week: you officially cracked $2,007.73 in cumulative fuel savings**, clearing the $2,000 milestone you've been chasing since August 2024 \u2014 and you did it in style with a clean 571.6 miles across just 4 charges, all at home except zero Supercharger stops, costing you only **$10.92 for the week** versus roughly $79 it would've cost in the CX-5. Efficiency came in at a stellar **203 MPGe** for the week, which is strong for spring driving, though that April 11 session dipped to 121.9 MPGe on a deep 48\u219280% SOC swing \u2014 totally normal, just physics \u2014 while the 68-69\u00b0F temps are giving you that sweet spot before summer heat starts nibbling at range. Your **RR tire at 41.7 PSI is still the persistent troublemaker** across 10+ consecutive sessions, and with FR running at 43.9 PSI you've got nearly a 2.2 PSI imbalance that's quietly costing you efficiency and uneven wear \u2014 bleed FR down to 42 PSI, top off RR, and seriously just get it inspected for a slow leak this week. On the breakeven front, you've recovered **$2,607.37 combined** (fuel + maintenance savings) against a $38,030 premium, sitting at about **0.5% recouped** with 4,116 months remaining \u2014 that number is brutal, but it's purely a financial math exercise and doesn't account for resale value sitting at a healthy **$40,017**, which actually puts you *above* purchase net cost right now. The genuinely surprising stat: your **all-time average of 203 MPGe** is nearly *8x* the CX-5's 28 MPG \u2014 you're essentially driving 571 miles on the energy equivalent of 2.8 gallons of gas.",
+  "ai_insight": "## Weekly Tesla Ownership Digest \u2014 Week of April 19, 2026\n\n**Efficiency this week was genuinely impressive** \u2014 86.4 MPGe across 675 miles is well above your typical range, likely boosted by the mild spring temps (67\u201369\u00b0F) and the fact that you're not running HVAC, which is about as ideal as it gets for EV efficiency.\n\n**The tire pressure situation has become a real problem though** \u2014 your RR tire dropped back to 39.2 PSI on April 19 after someone clearly topped everything off post the 487-mile road trip, and it's already bleeding back down; that's a 2.8 PSI loss in two days on one tire, which at this point isn't a \"check it later\" situation \u2014 you need a plug, patch, or at minimum a bead seal inspection this week.\n\n**On the savings front, you crossed $2,070 cumulative and saved $62.66 this week alone at just $29.99 in charging costs** \u2014 for context, that 675-mile week would have cost you roughly $92 in the CX-5 at today's ~$3.80/gallon, so the Model Y basically paid for a nice dinner out.\n\n**One recommendation: log your charge types properly** \u2014 three of your recent sessions are flagged \"not_charging\" yet show real kWh and cost data, which is muddying your efficiency stats and making it hard to know if that 134.6 MPGe on April 17 is real or a logging artifact.\n\n**The surprising bit?** You're only 0.6% of the way to breaking even on the $38,030 Tesla premium \u2014 but your weekly savings rate of ~$63 means you're actually on a trajectory that math alone undersells, because rising gas prices are quietly working in your favor every single week.",
   "charge_history": [
     {
       "date": "2024-08-04",
@@ -8524,6 +8524,62 @@
       "soc_after": 80,
       "temp": 68.9,
       "charge_type": "home"
+    },
+    {
+      "date": "2026-04-14",
+      "miles": 67.3,
+      "kwh": 20.34,
+      "cost": 2.35,
+      "gas_mpg": 111.4,
+      "gas_price": 3.888,
+      "equiv_gallons": 0.6,
+      "savings": 7.0,
+      "soc_before": 48,
+      "soc_after": 80,
+      "temp": 73.4,
+      "charge_type": "home"
+    },
+    {
+      "date": "2026-04-15",
+      "miles": 30.0,
+      "kwh": 12.52,
+      "cost": 1.45,
+      "gas_mpg": 80.1,
+      "gas_price": 3.875,
+      "equiv_gallons": 0.37,
+      "savings": 2.7,
+      "soc_before": 62,
+      "soc_after": 80,
+      "temp": 73.4,
+      "charge_type": "home"
+    },
+    {
+      "date": "2026-04-17",
+      "miles": 487.8,
+      "kwh": 39.78,
+      "cost": 13.92,
+      "gas_mpg": 134.6,
+      "gas_price": 3.84,
+      "equiv_gallons": 3.62,
+      "savings": 52.98,
+      "soc_before": 54,
+      "soc_after": 54,
+      "temp": 68.9,
+      "charge_type": "not_charging"
+    },
+    {
+      "date": "2026-04-19",
+      "miles": 90.3,
+      "kwh": 35.06,
+      "cost": 12.27,
+      "gas_mpg": 27.9,
+      "gas_price": 3.799,
+      "equiv_gallons": 3.23,
+      "savings": -0.02,
+      "soc_before": 44,
+      "soc_after": 44,
+      "temp": 67.1,
+      "charge_type": "not_charging"
     }
   ]
 }
