@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-26T08:00:15.277545",
+  "updated_at": "2026-05-03T08:00:29.860181",
   "vehicle": {
     "year": 2024,
     "model": "Model Y Performance",
@@ -8,24 +8,24 @@
     "previous_vehicle": "2016 Mazda CX-5 FWD Sport 2.5L"
   },
   "summary": {
-    "total_charges": 613,
-    "total_miles": 33746.363260000246,
-    "total_kwh": 8662.660000080117,
-    "total_electricity_cost": 1245.2968868519933,
-    "total_fuel_savings": 2136.38,
-    "avg_gas_equiv_mpg": 73.5,
+    "total_charges": 618,
+    "total_miles": 34087.363260000246,
+    "total_kwh": 8751.600000080116,
+    "total_electricity_cost": 1255.5668868519933,
+    "total_fuel_savings": 2172.77,
+    "avg_gas_equiv_mpg": 73.9,
     "breakeven": {
-      "net_savings": 273.64,
-      "fuel_savings": 2136.38,
-      "maintenance_savings": 613.24,
-      "insurance_cost": 2475.98,
-      "breakeven_pct": 0.7,
-      "months_remaining": 2860.1,
+      "net_savings": 289.37,
+      "fuel_savings": 2172.77,
+      "maintenance_savings": 620.04,
+      "insurance_cost": 2503.44,
+      "breakeven_pct": 0.8,
+      "months_remaining": 2733.6,
       "tesla_premium": 38030.0
     },
-    "resale_value": 39730
+    "resale_value": 39616
   },
-  "ai_insight": "## Week of April 22\u201323, 2026 \u2014 Tesla Ownership Snapshot\n\nYour efficiency story this week is really two sessions telling completely different tales \u2014 Tuesday's 480-mile marathon charge clocked in at a jaw-dropping **1,393 MPGe**, while Wednesday's short 25.7-mile hop came in at a more modest **111.6 MPGe**, and averaged together you hit **888 MPGe for the week across 506 miles on just $2.16** \u2014 that's genuinely remarkable. The warm weather (67\u201372\u00b0F) and HVAC-off conditions are doing real work for you right now, and your battery degradation actually *improved* slightly from 8.8% to 8.6% between sessions, which is a nice data quirk worth watching. On the savings front, you crossed **$2,136 cumulative** this week and saved **$65.99 vs. what the CX-5 would have cost**, but the breakeven math remains the sobering reality check \u2014 with **$38,030 in Tesla premium still to recoup and only 0.7% covered by net savings**, you're looking at a long road ahead that insurance costs are actively making longer. **This week's one action item is non-negotiable: get that rear-right tire looked at professionally** \u2014 it's been the chronic low outlier for 14+ consecutive sessions, and even after top-offs it keeps drifting down, which means there's almost certainly a slow leak robbing you of efficiency and safety margin. The genuinely surprising detail this week? Your **single Tuesday charge session saved $63.42 on its own** \u2014 more than your entire monthly insurance premium increase \u2014 just by driving 480 miles between charges and topping off at home for $1.30.",
+  "ai_insight": "## Week of May 1\u20132, 2026 | Tesla Ownership Weekly\n\nYour efficiency story this week is a genuine rebound \u2014 you averaged **127.7 MPGe** across 341 miles, bookended by a 121.9 on May 1 and a strong 129.7 on May 2, which tells me the early-week slump (that 91 MPGe session on April 29) is firmly in the rearview. Ideal conditions helped: temps in the high 60s with HVAC off are basically your sweet spot, and five clean home charges at **$0.1154/kWh** kept your weekly energy bill at just **$10.27** \u2014 that's $36.39 saved versus filling up the CX-5 at current gas prices. Cumulative savings hit **$2,172.77**, which is a nice milestone, though the breakeven math remains sobering \u2014 with $38,030 in Tesla premium to recoup and only $2,793 in combined fuel and maintenance savings offset by $2,503 in extra insurance costs, you're sitting at just **0.8% of the way there**. The one thing I'd stop dancing around is the **RR tire at 39.5 PSI** \u2014 it's been flagged for 19+ consecutive sessions, it's clearly not holding air, and a slow leak inspection at a tire shop will cost you $20 and could be silently costing you efficiency every single session. The genuinely surprising detail this week: your **129.7 MPGe on May 2** came from a 51\u219280% charge cycle covering 76.5 miles \u2014 that mid-range charging window is consistently where your efficiency shines brightest, which is worth being intentional about.",
   "charge_history": [
     {
       "date": "2024-08-04",
@@ -8607,6 +8607,76 @@
       "soc_before": 66,
       "soc_after": 80,
       "temp": 72.5,
+      "charge_type": "home"
+    },
+    {
+      "date": "2026-04-27",
+      "miles": 118.0,
+      "kwh": 22.8,
+      "cost": 2.63,
+      "gas_mpg": 167.7,
+      "gas_price": 3.737,
+      "equiv_gallons": 0.7,
+      "savings": 13.12,
+      "soc_before": 45,
+      "soc_after": 80,
+      "temp": 73.4,
+      "charge_type": "home"
+    },
+    {
+      "date": "2026-04-28",
+      "miles": 77.4,
+      "kwh": 24.44,
+      "cost": 2.82,
+      "gas_mpg": 103.6,
+      "gas_price": 3.774,
+      "equiv_gallons": 0.75,
+      "savings": 7.62,
+      "soc_before": 43,
+      "soc_after": 80,
+      "temp": 75.2,
+      "charge_type": "home"
+    },
+    {
+      "date": "2026-04-29",
+      "miles": 25.0,
+      "kwh": 9.14,
+      "cost": 1.06,
+      "gas_mpg": 91.1,
+      "gas_price": 3.86,
+      "equiv_gallons": 0.27,
+      "savings": 2.39,
+      "soc_before": 64,
+      "soc_after": 80,
+      "temp": 71.6,
+      "charge_type": "home"
+    },
+    {
+      "date": "2026-05-01",
+      "miles": 44.1,
+      "kwh": 12.26,
+      "cost": 1.42,
+      "gas_mpg": 121.9,
+      "gas_price": 3.93,
+      "equiv_gallons": 0.36,
+      "savings": 4.76,
+      "soc_before": 60,
+      "soc_after": 80,
+      "temp": 69.8,
+      "charge_type": "home"
+    },
+    {
+      "date": "2026-05-02",
+      "miles": 76.5,
+      "kwh": 20.3,
+      "cost": 2.34,
+      "gas_mpg": 129.7,
+      "gas_price": 3.966,
+      "equiv_gallons": 0.59,
+      "savings": 8.5,
+      "soc_before": 51,
+      "soc_after": 80,
+      "temp": 68.9,
       "charge_type": "home"
     }
   ]
