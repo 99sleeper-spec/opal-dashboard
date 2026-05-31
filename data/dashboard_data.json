@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24T08:00:16.192097",
+  "updated_at": "2026-05-31T08:00:15.748152",
   "vehicle": {
     "year": 2024,
     "model": "Model Y Performance",
@@ -8,24 +8,24 @@
     "previous_vehicle": "2016 Mazda CX-5 FWD Sport 2.5L"
   },
   "summary": {
-    "total_charges": 623,
-    "total_miles": 34724.76326000025,
-    "total_kwh": 8817.080000080115,
-    "total_electricity_cost": 1266.126886851993,
-    "total_fuel_savings": 2256.44,
-    "avg_gas_equiv_mpg": 74.8,
+    "total_charges": 627,
+    "total_miles": 35400.46326000025,
+    "total_kwh": 8915.500000080116,
+    "total_electricity_cost": 1282.416886851993,
+    "total_fuel_savings": 2339.28,
+    "avg_gas_equiv_mpg": 75.6,
     "breakeven": {
-      "net_savings": 311.05,
-      "fuel_savings": 2256.44,
-      "maintenance_savings": 640.45,
-      "insurance_cost": 2585.85,
-      "breakeven_pct": 0.8,
-      "months_remaining": 2625.3,
+      "net_savings": 373.22,
+      "fuel_savings": 2339.28,
+      "maintenance_savings": 647.26,
+      "insurance_cost": 2613.31,
+      "breakeven_pct": 1.0,
+      "months_remaining": 2207.5,
       "tesla_premium": 38030.0
     },
-    "resale_value": 39320
+    "resale_value": 39163
   },
-  "ai_insight": "## Week of May 21, 2026 \u2014 Tesla Ownership Check-In\n\nYour efficiency story this week is a tale of two charges \u2014 a suspicious \"not_charging\" session on the 20th that logged 12.76 kWh at $0.35/kWh (3x your home rate), followed by a clean home charge on the 21st at your usual $0.1154/kWh, and together they delivered 106.5 miles at a solid 79.5 MPGe, which is respectable but below your warm-weather ceiling given the 77\u00b0F temps. The short 18.1-mile home charge session is artificially dragging your weekly MPGe down \u2014 when your denominator is that small, charging overhead hits hard, so don't read too much into it. You crossed **$2,256.44 in cumulative fuel savings** this week, saving $10.14 compared to what the CX-5 would have cost, and your all-time breakeven progress sits at **8% of the $38,030 Tesla premium** with maintenance savings adding another $640.45 to the ledger. That RR tire at **40.2 PSI \u2014 flagged for 24+ consecutive sessions** \u2014 is no longer a \"keep an eye on it\" situation; a slow leak that persists across months of top-offs is a nail, a bead leak, or a valve stem issue, and one highway blowout costs more than a $30 plug kit. The genuinely surprising thing this week? Your resale value of **$39,320 actually exceeds your original net purchase price of $38,030** \u2014 meaning if you sold today, you'd technically be ahead on the vehicle itself, independent of all the fuel savings you've stacked.",
+  "ai_insight": "## Week of May 25 \u2013 May 31, 2026\n\nEfficiency this week came in at **168.9 MPGe** \u2014 which sounds impressive on paper, but your last two logged sessions (113.2 and 116.8 MPGe) tell a more honest story: you're running **10\u201320 MPGe below your warm-weather baseline**, and that RR tire at **37.7 PSI** (4.3 PSI under target, flagged across 28+ consecutive sessions) is almost certainly the biggest culprit, since chronic underinflation adds rolling resistance on every single mile. The good news is you still drove **675.7 miles for just $16.29** \u2014 saving **$82.84 versus the CX-5** this week alone \u2014 pushing your cumulative fuel savings to **$2,339.28** and putting the **$2,350 milestone basically within next charge's reach**. On the breakeven front, you've recovered **$373.22 of your $38,030 Tesla premium** when you net out fuel savings, maintenance savings, and the insurance increase \u2014 slow going, but the $82/week pace compounds nicely. **This week's one action item is non-negotiable: get that RR tire inspected today** \u2014 you've now logged 28+ sessions watching it trend downward to a new low of 37.7 PSI, and at this point it's not a slow leak question, it's a *when does it fail on the highway* question. The surprising detail? Your very first charge back in August 2024 actually *cost* you $0.50 versus the CX-5 \u2014 and now you're pocketing $7 per session at home. What a difference 35,000 miles and a home charger make.",
   "charge_history": [
     {
       "date": "2024-08-04",
@@ -8747,6 +8747,62 @@
       "soc_before": 66,
       "soc_after": 80,
       "temp": 77.9,
+      "charge_type": "home"
+    },
+    {
+      "date": "2026-05-26",
+      "miles": 464.5,
+      "kwh": 43.16,
+      "cost": 4.98,
+      "gas_mpg": 386.4,
+      "gas_price": 4.143,
+      "equiv_gallons": 1.2,
+      "savings": 63.75,
+      "soc_before": 18,
+      "soc_after": 80,
+      "temp": 77,
+      "charge_type": "home"
+    },
+    {
+      "date": "2026-05-29",
+      "miles": 98.0,
+      "kwh": 21.04,
+      "cost": 7.36,
+      "gas_mpg": 54.1,
+      "gas_price": 4.061,
+      "equiv_gallons": 1.81,
+      "savings": 6.86,
+      "soc_before": 50,
+      "soc_after": 74,
+      "temp": 78.8,
+      "charge_type": "not_charging"
+    },
+    {
+      "date": "2026-05-30",
+      "miles": 65.3,
+      "kwh": 20.14,
+      "cost": 2.32,
+      "gas_mpg": 113.2,
+      "gas_price": 4.02,
+      "equiv_gallons": 0.58,
+      "savings": 7.06,
+      "soc_before": 51,
+      "soc_after": 80,
+      "temp": 77.9,
+      "charge_type": "home"
+    },
+    {
+      "date": "2026-05-31",
+      "miles": 47.9,
+      "kwh": 14.08,
+      "cost": 1.63,
+      "gas_mpg": 116.8,
+      "gas_price": 3.979,
+      "equiv_gallons": 0.41,
+      "savings": 5.17,
+      "soc_before": 60,
+      "soc_after": 80,
+      "temp": 77,
       "charge_type": "home"
     }
   ]
