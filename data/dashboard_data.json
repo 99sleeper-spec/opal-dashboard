@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T08:00:15.748152",
+  "updated_at": "2026-07-12T08:00:20.100729",
   "vehicle": {
     "year": 2024,
     "model": "Model Y Performance",
@@ -8,24 +8,24 @@
     "previous_vehicle": "2016 Mazda CX-5 FWD Sport 2.5L"
   },
   "summary": {
-    "total_charges": 627,
-    "total_miles": 35400.46326000025,
-    "total_kwh": 8915.500000080116,
-    "total_electricity_cost": 1282.416886851993,
-    "total_fuel_savings": 2339.28,
-    "avg_gas_equiv_mpg": 75.6,
+    "total_charges": 629,
+    "total_miles": 35549.06326000025,
+    "total_kwh": 8958.820000080115,
+    "total_electricity_cost": 1287.416886851993,
+    "total_fuel_savings": 2355.13,
+    "avg_gas_equiv_mpg": 75.7,
     "breakeven": {
-      "net_savings": 373.22,
-      "fuel_savings": 2339.28,
-      "maintenance_savings": 647.26,
-      "insurance_cost": 2613.31,
-      "breakeven_pct": 1.0,
-      "months_remaining": 2207.5,
+      "net_savings": 265.09,
+      "fuel_savings": 2355.13,
+      "maintenance_savings": 688.07,
+      "insurance_cost": 2778.12,
+      "breakeven_pct": 0.7,
+      "months_remaining": 3313.5,
       "tesla_premium": 38030.0
     },
-    "resale_value": 39163
+    "resale_value": 38709
   },
-  "ai_insight": "## Week of May 25 \u2013 May 31, 2026\n\nEfficiency this week came in at **168.9 MPGe** \u2014 which sounds impressive on paper, but your last two logged sessions (113.2 and 116.8 MPGe) tell a more honest story: you're running **10\u201320 MPGe below your warm-weather baseline**, and that RR tire at **37.7 PSI** (4.3 PSI under target, flagged across 28+ consecutive sessions) is almost certainly the biggest culprit, since chronic underinflation adds rolling resistance on every single mile. The good news is you still drove **675.7 miles for just $16.29** \u2014 saving **$82.84 versus the CX-5** this week alone \u2014 pushing your cumulative fuel savings to **$2,339.28** and putting the **$2,350 milestone basically within next charge's reach**. On the breakeven front, you've recovered **$373.22 of your $38,030 Tesla premium** when you net out fuel savings, maintenance savings, and the insurance increase \u2014 slow going, but the $82/week pace compounds nicely. **This week's one action item is non-negotiable: get that RR tire inspected today** \u2014 you've now logged 28+ sessions watching it trend downward to a new low of 37.7 PSI, and at this point it's not a slow leak question, it's a *when does it fail on the highway* question. The surprising detail? Your very first charge back in August 2024 actually *cost* you $0.50 versus the CX-5 \u2014 and now you're pocketing $7 per session at home. What a difference 35,000 miles and a home charger make.",
+  "ai_insight": "## Weekly Tesla Check-In | Week of June 3, 2026\n\nHere's the thing \u2014 your data shows **zero miles driven this week**, so there's not much new efficiency trend to analyze, but the last two logged sessions tell an interesting story heading into the week ahead. Your June 3rd charge bounced back nicely to **121.6 MPGe** after that sluggish 112.4 MPGe session two days prior, which is encouraging, though you're still running below your warm-weather ceiling of 130+ MPGe \u2014 and that **RR tire at 40.2 PSI** (flagged for 30+ consecutive sessions now) remains the most likely drag on both numbers. On the savings front, you just crossed **$2,355.13 in cumulative fuel savings**, which sounds great until you zoom out and see you're only **0.7% of the way to breaking even** on that $38,030 Tesla premium, with a frankly sobering **3,313 months remaining** at current pace \u2014 though that math improves dramatically as you drive more consistently. **This week's one action:** just go get that rear-right tire inspected at a shop; it has held at exactly 40.2 PSI across multiple sessions despite topping off, which is the textbook signature of a slow leak, and fixing it could realistically recover 5-8 MPGe per session. The surprising bit? Your **battery degradation actually improved slightly** \u2014 from 9% on June 1st to 8.9% on June 3rd \u2014 which isn't physically possible in two days, but suggests your BMS is recalibrating upward, and your 254.1-mile max range is holding up impressively well at 35,659 miles.",
   "charge_history": [
     {
       "date": "2024-08-04",
@@ -8803,6 +8803,34 @@
       "soc_before": 60,
       "soc_after": 80,
       "temp": 77,
+      "charge_type": "home"
+    },
+    {
+      "date": "2026-06-01",
+      "miles": 74.7,
+      "kwh": 22.76,
+      "cost": 2.63,
+      "gas_mpg": 112.4,
+      "gas_price": 3.955,
+      "equiv_gallons": 0.66,
+      "savings": 7.93,
+      "soc_before": 47,
+      "soc_after": 80,
+      "temp": 76.1,
+      "charge_type": "home"
+    },
+    {
+      "date": "2026-06-03",
+      "miles": 73.9,
+      "kwh": 20.56,
+      "cost": 2.37,
+      "gas_mpg": 121.6,
+      "gas_price": 3.902,
+      "equiv_gallons": 0.61,
+      "savings": 7.92,
+      "soc_before": 51,
+      "soc_after": 80,
+      "temp": 76.1,
       "charge_type": "home"
     }
   ]
