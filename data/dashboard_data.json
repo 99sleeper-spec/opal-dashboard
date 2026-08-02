@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T08:00:18.897989",
+  "updated_at": "2026-08-02T08:00:15.102841",
   "vehicle": {
     "year": 2024,
     "model": "Model Y Performance",
@@ -15,17 +15,17 @@
     "total_fuel_savings": 2355.13,
     "avg_gas_equiv_mpg": 75.7,
     "breakeven": {
-      "net_savings": 223.76,
+      "net_savings": 203.1,
       "fuel_savings": 2355.13,
-      "maintenance_savings": 701.68,
-      "insurance_cost": 2833.05,
-      "breakeven_pct": 0.6,
-      "months_remaining": 4007.5,
+      "maintenance_savings": 708.48,
+      "insurance_cost": 2860.52,
+      "breakeven_pct": 0.5,
+      "months_remaining": 4460.5,
       "tesla_premium": 38030.0
     },
-    "resale_value": 38564
+    "resale_value": 38491
   },
-  "ai_insight": "## Weekly Tesla Check-In | Week of June 3, 2026\n\nNo miles logged this week \u2014 looks like the car stayed parked \u2014 so we're really looking at the tail end of last week's story, and it's a good one: your **June 3rd charge hit 121.6 MPGe**, a meaningful bounce back from the 112.4 MPGe slump just two days earlier, and your cumulative savings officially cracked **$2,355.13** with that $7.92 session win. The tire pressure situation on your rear-right continues to be the most stubborn variable in your efficiency story \u2014 it's been stuck at **40.2 PSI across 30+ consecutive sessions**, a full 1.8 PSI below your 42 PSI target, and a slow leak that just *won't hold* after topping off is essentially a tax on every single mile you drive. On the break-even front, you've now recovered **0.6% of your $38,030 Tesla premium**, with $223.76 net savings after accounting for that $2,833 insurance increase \u2014 still a long road, but $2,355 in fuel savings in under two years is genuinely solid. **This week's one ask: get that RR tire professionally inspected** \u2014 a $20\u201330 plug or patch could recover 5\u201310 MPGe you've been bleeding for nearly two months, which at your driving pace translates to real dollars fast.",
+  "ai_insight": "## Weekly Tesla Check-In | Week of June 3, 2026\n\nHere's the thing \u2014 your data shows **zero activity logged this week**, so we're essentially looking at a snapshot of where things stand heading into the week rather than a fresh batch of miles to analyze. What we *do* have is a really clean two-charge picture from June 1st and 3rd: efficiency bounced back nicely from **112.4 MPGe up to 121.6 MPGe** between those two sessions, which is a meaningful 8% recovery, though still a bit shy of your warm-weather ceiling of 130+ MPGe. Your cumulative savings just crossed **$2,355.13**, which is a fun milestone, but the break-even math is still humbling \u2014 with $38,030 left to recoup and only **$203.10 in net savings** after accounting for that $119/month insurance bump, you're sitting at just **0.5% of the way there**, and the model is projecting 4,460 months remaining, which is clearly a reflection of how heavily the insurance cost is weighing against fuel savings right now. The single most actionable thing you can do this week is **get that rear-right tire inspected** \u2014 it's been flagged underinflated for 30+ consecutive sessions and never fully recovers between top-offs, which is a slow leak until proven otherwise, and fixing it could realistically push you back above 130 MPGe consistently. Interestingly, your **battery degradation ticked down from 9% to 8.9%** between June 1st and 3rd \u2014 that's almost certainly just measurement noise, but it's a good reminder that at 35,659 miles, your pack is holding up reasonably well overall.",
   "charge_history": [
     {
       "date": "2024-08-04",
