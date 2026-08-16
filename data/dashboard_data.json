@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T08:00:19.383585",
+  "updated_at": "2026-08-16T08:00:15.133520",
   "vehicle": {
     "year": 2024,
     "model": "Model Y Performance",
@@ -15,17 +15,17 @@
     "total_fuel_savings": 2355.13,
     "avg_gas_equiv_mpg": 75.7,
     "breakeven": {
-      "net_savings": 182.43,
+      "net_savings": 161.77,
       "fuel_savings": 2355.13,
-      "maintenance_savings": 715.29,
-      "insurance_cost": 2887.99,
-      "breakeven_pct": 0.5,
-      "months_remaining": 5016.2,
+      "maintenance_savings": 722.09,
+      "insurance_cost": 2915.45,
+      "breakeven_pct": 0.4,
+      "months_remaining": 5713.9,
       "tesla_premium": 38030.0
     },
-    "resale_value": 38435
+    "resale_value": 38383
   },
-  "ai_insight": "## Weekly Tesla Check-In | Week of June 3, 2026\n\nHere's the thing \u2014 your data shows **zero miles driven this week**, so there's not much new ground to cover, but your last two logged sessions tell a genuinely encouraging story: you bounced back from **112.4 MPGe on June 1 to 121.6 MPGe on June 3**, a solid 9-point recovery that tracks almost perfectly with that RR tire climbing back from its 37.7 PSI low toward 40.2 PSI, proving the rolling resistance theory isn't just speculation anymore. Your cumulative savings just crossed **$2,355.13**, which is a real milestone \u2014 you're saving roughly $7.92\u2013$7.93 per home charge at your $0.1154/kWh rate versus what the CX-5 would cost at $3.90/gal, and that math keeps compounding quietly in your favor every single session. The breakeven picture is still the sobering part \u2014 with a **$38,030 Tesla premium** to recoup and only **$182.43 in net savings** (after folding in that $119/month insurance hit), you're at just **0.5% of the way there**, and the months-remaining figure is more of a \"don't look directly at it\" number right now. **This week's one recommendation is the same one it's been for 30+ sessions: get that RR tire professionally inspected** \u2014 not topped off, *inspected* \u2014 because the data is as clear as it's going to get that you have a slow leak costing you real MPGe. The most interesting thing in your dataset? Your very first charge on August 4, 2024 in Chattanooga *lost* you $0.50 versus the CX-5 at a $0.39/kWh Supercharger rate \u2014 and now at $0.1154/kWh at home, you're saving nearly $8 a pop. That's the whole EV story in two data points.",
+  "ai_insight": "## Weekly Tesla Analysis \u2014 Week of June 3, 2026\n\nWell, this was essentially a ghost week \u2014 zero miles logged, zero charges recorded, so there's not much new driving data to dig into. What we *can* say is that your last two sessions tell an interesting story: June 1st came in at a sluggish **112.4 MPGe**, then June 3rd bounced back to **121.6 MPGe** on nearly identical conditions (76.1\u00b0F both days, HVAC off both times), and the most likely explanation is just the natural variance you get when that RR tire is sitting at **40.2 PSI** \u2014 1.8 PSI below target \u2014 for the **30th consecutive session**. On the savings front, you're sitting at a cumulative **$2,355.13**, which is a genuinely impressive milestone, but the breakeven picture remains a long road: with a **$38,030 Tesla premium** to recoup and only **$161.77 in net savings** after accounting for that $2,915.45 in extra insurance costs, you're at just **0.4% of the way there**. This week's one recommendation is the same one that's been flashing red for two months \u2014 **get that rear-right tire inspected for a slow leak**, because at 30+ flagged sessions with pressure repeatedly sliding back to 40 PSI despite top-offs, rolling resistance is quietly taxing every single mile you drive. The surprising thing? Your battery degradation actually *improved* slightly, from **9.0% to 8.9%** between June 1st and June 3rd \u2014 almost certainly a measurement artifact, but at 35,659 miles and roughly 22 months in, holding under 9% degradation is legitimately solid.",
   "charge_history": [
     {
       "date": "2024-08-04",
