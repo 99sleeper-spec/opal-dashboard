@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T08:00:15.133520",
+  "updated_at": "2026-08-23T08:00:16.802413",
   "vehicle": {
     "year": 2024,
     "model": "Model Y Performance",
@@ -15,17 +15,17 @@
     "total_fuel_savings": 2355.13,
     "avg_gas_equiv_mpg": 75.7,
     "breakeven": {
-      "net_savings": 161.77,
+      "net_savings": 141.1,
       "fuel_savings": 2355.13,
-      "maintenance_savings": 722.09,
-      "insurance_cost": 2915.45,
+      "maintenance_savings": 728.89,
+      "insurance_cost": 2942.92,
       "breakeven_pct": 0.4,
-      "months_remaining": 5713.9,
+      "months_remaining": 6616.0,
       "tesla_premium": 38030.0
     },
-    "resale_value": 38383
+    "resale_value": 38331
   },
-  "ai_insight": "## Weekly Tesla Analysis \u2014 Week of June 3, 2026\n\nWell, this was essentially a ghost week \u2014 zero miles logged, zero charges recorded, so there's not much new driving data to dig into. What we *can* say is that your last two sessions tell an interesting story: June 1st came in at a sluggish **112.4 MPGe**, then June 3rd bounced back to **121.6 MPGe** on nearly identical conditions (76.1\u00b0F both days, HVAC off both times), and the most likely explanation is just the natural variance you get when that RR tire is sitting at **40.2 PSI** \u2014 1.8 PSI below target \u2014 for the **30th consecutive session**. On the savings front, you're sitting at a cumulative **$2,355.13**, which is a genuinely impressive milestone, but the breakeven picture remains a long road: with a **$38,030 Tesla premium** to recoup and only **$161.77 in net savings** after accounting for that $2,915.45 in extra insurance costs, you're at just **0.4% of the way there**. This week's one recommendation is the same one that's been flashing red for two months \u2014 **get that rear-right tire inspected for a slow leak**, because at 30+ flagged sessions with pressure repeatedly sliding back to 40 PSI despite top-offs, rolling resistance is quietly taxing every single mile you drive. The surprising thing? Your battery degradation actually *improved* slightly, from **9.0% to 8.9%** between June 1st and June 3rd \u2014 almost certainly a measurement artifact, but at 35,659 miles and roughly 22 months in, holding under 9% degradation is legitimately solid.",
+  "ai_insight": "## Weekly Tesla Analysis \u2014 Week of June 3, 2026\n\n**Quiet week in the data** \u2014 zero miles and zero charges logged this week, so we're working off your two most recent sessions (June 1 and June 3) to read the tea leaves.\n\n**Efficiency is recovering but not there yet.** You bounced from 112.4 MPGe on June 1 back to 121.6 MPGe on June 3 \u2014 a solid 9 MPGe improvement in just two days with identical temps (76.1\u00b0F) and no HVAC, which points directly at tire pressure as the swing variable rather than weather or driving style. That said, 121.6 MPGe is still below your warm-weather potential of 130+ MPGe, and the culprit hasn't changed: **your rear-right tire has been underinflated for 30+ consecutive logged sessions**, sitting at 40.2 PSI against a 42 PSI target, and it is slowly bleeding efficiency every single mile.\n\n**Savings are looking great** \u2014 you just crossed **$2,355.13 in cumulative fuel savings**, and with home charging at $0.1154/kWh against $3.90/gallon gas, each charge session is netting you roughly $7.90 in savings. The breakeven math is still the long game though: you're at just **0.4% of the $38,030 Tesla premium recovered**, with a painful 551+ months remaining at current pace \u2014 that number will only move meaningfully as miles and savings accumulate.\n\n**This week's recommendation is the same one that's been screaming for a month: get that RR tire professionally inspected for a slow leak.** Topping it off clearly isn't holding pressure across sessions, and fixing a $20\u201330 plug could permanently reclaim 5\u201310 MPGe, which at your driving pace translates to real dollars over time.\n\n**The surprising thing?** Your battery degradation actually *improved* slightly \u2014 from 9.0% on June 1 to **8.9% on June 3** \u2014 which is almost certainly just measurement noise, but your max range of 254.1 miles at nearly ",
   "charge_history": [
     {
       "date": "2024-08-04",
