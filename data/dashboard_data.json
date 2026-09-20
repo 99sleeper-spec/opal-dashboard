@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T08:00:17.156185",
+  "updated_at": "2026-09-20T08:00:20.672671",
   "vehicle": {
     "year": 2024,
     "model": "Model Y Performance",
@@ -15,17 +15,17 @@
     "total_fuel_savings": 2355.13,
     "avg_gas_equiv_mpg": 75.7,
     "breakeven": {
-      "net_savings": 79.11,
+      "net_savings": 58.45,
       "fuel_savings": 2355.13,
-      "maintenance_savings": 749.3,
-      "insurance_cost": 3025.32,
+      "maintenance_savings": 756.1,
+      "insurance_cost": 3052.79,
       "breakeven_pct": 0.2,
-      "months_remaining": 12150.7,
+      "months_remaining": 16605.2,
       "tesla_premium": 38030.0
     },
-    "resale_value": 38175
+    "resale_value": 38123
   },
-  "ai_insight": "## Weekly Tesla Check-In | Week of June 3, 2026\n\nNo miles logged this week \u2014 looks like the car mostly stayed home (or the data just didn't come through), so let's use this as a good moment to zoom out on where things stand overall.\n\n**Efficiency & Tires:** Your last two sessions told an interesting story \u2014 June 1 came in at a sluggish 112.4 MPGe, then June 3 bounced back to 121.6 MPGe under identical conditions (same temp, same route length, same HVAC-off status), and the most likely explanation is that RR tire holding at 40.2 PSI is creating just enough rolling resistance to matter on some drives and not others \u2014 that 1.8 PSI deficit might sound trivial, but it's been flagged across **30+ consecutive sessions** and you're essentially carrying a small tax on every mile you drive.\n\n**Savings Milestone:** The big news is you crossed **$2,355.13 in cumulative fuel savings**, which is genuinely worth celebrating \u2014 you're saving roughly $7.90 per charge at home versus what the CX-5 would've cost at $3.90/gal, and your home rate of $0.1154/kWh continues to be your secret weapon.\n\n**Break-Even Reality Check:** You've recovered about **6.2% of your $38,030 Tesla premium** ($2,355 fuel savings + $749 maintenance savings = $3,104, offset by $3,025 in extra insurance costs), leaving roughly **$34,926 still to go** \u2014 at your current savings pace that's a long runway, but resale value sitting at $38,175 means you're essentially whole on paper if you sold today.\n\n**This Week's Recommendation:** Get that RR tire professionally inspected \u2014 not topped off, *inspected* \u2014 because 30+ sessions of documented slow leak means you're one bad week from a flat, and fixing a $20 nail patch could permanently recover 5-8 MPGe you've been bleeding all spring.",
+  "ai_insight": "## Weekly Tesla Check-In | Week of June 3, 2026\n\nHere's the thing \u2014 your spreadsheet is basically a flat line this week, with **zero miles, zero charges, and zero cost logged**, so there's not much new driving data to dig into. What *is* worth celebrating is where you left off: that **June 3rd home charge pushed cumulative savings to $2,355.13**, crossing the $2,350 milestone on just $2.37 of electricity for 73.9 miles at **121.6 MPGe** \u2014 a solid bounce back from the 112 MPGe session two days prior. Your break-even math remains the elephant in the room: with a **$38,030 Tesla premium** to recoup and only **$58.45 in net savings** so far (after factoring in that $3,052.79 insurance delta), you're sitting at just **0.2% of the way there** \u2014 the 16,605-month figure in your data is a rounding artifact, but the insurance cost is genuinely the dominant headwind slowing your payback. **This week's recommendation is still the same one from June 1st: get that rear-right tire inspected** \u2014 it's been flagged at or below 40.2 PSI for 30+ consecutive sessions, and fixing a slow leak could realistically recover 5-8 MPGe, which compounds into real dollars over 35,000+ more miles. And here's the interesting footnote: your **resale value of $38,123 nearly equals your original Tesla premium of $38,030**, meaning if you sold today, you'd almost perfectly break even on the vehicle cost itself \u2014 the insurance increase is really what's been quietly working against you this whole time.",
   "charge_history": [
     {
       "date": "2024-08-04",
