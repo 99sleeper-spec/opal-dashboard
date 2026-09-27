@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T08:00:20.672671",
+  "updated_at": "2026-09-27T08:00:13.656514",
   "vehicle": {
     "year": 2024,
     "model": "Model Y Performance",
@@ -15,17 +15,17 @@
     "total_fuel_savings": 2355.13,
     "avg_gas_equiv_mpg": 75.7,
     "breakeven": {
-      "net_savings": 58.45,
+      "net_savings": 37.78,
       "fuel_savings": 2355.13,
-      "maintenance_savings": 756.1,
-      "insurance_cost": 3052.79,
-      "breakeven_pct": 0.2,
-      "months_remaining": 16605.2,
+      "maintenance_savings": 762.91,
+      "insurance_cost": 3080.26,
+      "breakeven_pct": 0.1,
+      "months_remaining": 25932.5,
       "tesla_premium": 38030.0
     },
-    "resale_value": 38123
+    "resale_value": 38071
   },
-  "ai_insight": "## Weekly Tesla Check-In | Week of June 3, 2026\n\nHere's the thing \u2014 your spreadsheet is basically a flat line this week, with **zero miles, zero charges, and zero cost logged**, so there's not much new driving data to dig into. What *is* worth celebrating is where you left off: that **June 3rd home charge pushed cumulative savings to $2,355.13**, crossing the $2,350 milestone on just $2.37 of electricity for 73.9 miles at **121.6 MPGe** \u2014 a solid bounce back from the 112 MPGe session two days prior. Your break-even math remains the elephant in the room: with a **$38,030 Tesla premium** to recoup and only **$58.45 in net savings** so far (after factoring in that $3,052.79 insurance delta), you're sitting at just **0.2% of the way there** \u2014 the 16,605-month figure in your data is a rounding artifact, but the insurance cost is genuinely the dominant headwind slowing your payback. **This week's recommendation is still the same one from June 1st: get that rear-right tire inspected** \u2014 it's been flagged at or below 40.2 PSI for 30+ consecutive sessions, and fixing a slow leak could realistically recover 5-8 MPGe, which compounds into real dollars over 35,000+ more miles. And here's the interesting footnote: your **resale value of $38,123 nearly equals your original Tesla premium of $38,030**, meaning if you sold today, you'd almost perfectly break even on the vehicle cost itself \u2014 the insurance increase is really what's been quietly working against you this whole time.",
+  "ai_insight": "## Weekly Tesla Check-In | Week of June 3, 2026\n\n**Heads up \u2014 your tracker logged zero miles and zero charges this week**, so there's nothing new to analyze from the past seven days. That said, your last two sessions tell a genuinely encouraging story: you bounced back from **112.4 MPGe on June 1 to 121.6 MPGe on June 3**, a 9 MPGe recovery that lines up almost perfectly with that RR tire crawling back up from its 37.7 PSI low \u2014 still sitting at **40.2 PSI though, still underinflated, still flagged for 30+ consecutive sessions**, and still the single biggest drag on your efficiency. On the financial side, you're sitting at **$2,355.13 in cumulative fuel savings** with your total net breakeven position at just **$37.78 in the black** when you factor in the $38,030 Tesla premium and $3,080 in extra insurance costs \u2014 the math is real but razor-thin right now, and that **25,932-month breakeven estimate is a data artifact** from near-zero weekly activity, not your actual trajectory. Your one action item this week is the same one it's been for two months: **get that rear-right tire professionally inspected for a slow leak** \u2014 at $3.90/gal and 121+ MPGe when your tires are properly inflated, you're leaving meaningful savings on the table every single drive by not fixing it.",
   "charge_history": [
     {
       "date": "2024-08-04",
