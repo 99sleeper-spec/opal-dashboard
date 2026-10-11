@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T08:00:15.337817",
+  "updated_at": "2026-10-11T08:00:16.356932",
   "vehicle": {
     "year": 2024,
     "model": "Model Y Performance",
@@ -15,17 +15,17 @@
     "total_fuel_savings": 2355.13,
     "avg_gas_equiv_mpg": 75.7,
     "breakeven": {
-      "net_savings": 17.12,
+      "net_savings": -3.55,
       "fuel_savings": 2355.13,
-      "maintenance_savings": 769.71,
-      "insurance_cost": 3107.72,
-      "breakeven_pct": 0.0,
-      "months_remaining": 57781.3,
+      "maintenance_savings": 776.51,
+      "insurance_cost": 3135.19,
+      "breakeven_pct": -0.0,
+      "months_remaining": null,
       "tesla_premium": 38030.0
     },
-    "resale_value": 38019
+    "resale_value": 37968
   },
-  "ai_insight": "## Weekly Tesla Check-In | Week of June 3, 2026\n\nLooks like a quiet week on the odometer \u2014 no new charges logged yet, so we're working with your last two sessions as the freshest signal, and the trend there is actually encouraging: you bounced from **112.4 MPGe on June 1 back up to 121.6 MPGe on June 3**, a nearly 10-point recovery that suggests the RR tire at **40.2 PSI** (still 1.8 PSI shy of target after 30+ consecutive flagged sessions) is costing you real efficiency but hasn't fully tanked you yet. Your cumulative savings just crossed **$2,355.13** in fuel savings alone, which is genuinely impressive, but the breakeven picture is sobering \u2014 with a **$38,030 Tesla premium** to recoup and insurance costs eating **$3,107.72** so far, your net savings stand at just **$17.12**, meaning you're essentially at ground zero on the financial justification. The one recommendation that keeps screaming from the data is simple: **get that rear-right tire professionally inspected this week** \u2014 30+ sessions of documented pressure loss that no amount of topping off has fixed is a slow leak, not a coincidence, and fixing it could realistically push you back toward your 130+ MPGe warm-weather ceiling. The surprising thing? Your resale value of **$38,019** is nearly identical to your original Tesla premium of **$38,030** \u2014 meaning if you sold today, you'd almost perfectly zero out the cost gap, which is a remarkably clean number after nearly two years and 35,659 miles.",
+  "ai_insight": "## Weekly Tesla Check-In | Week of June 3, 2026\n\n**Quiet week on the odometer** \u2014 zero miles logged this week, so we're essentially doing a snapshot analysis based on your last two charges rather than fresh driving data.\n\nYour **efficiency story is actually improving**: June 1st came in at a sluggish 112.4 MPGe, but June 3rd bounced back to **121.6 MPGe** \u2014 a solid 9-point recovery that lines up with your RR tire rebounding from its scary 37.7 PSI low back to 40.2 PSI, though that tire is *still* 1.8 PSI short of target after **30+ consecutive flagged sessions**, so the slow leak is doing real, measurable damage to your efficiency every single drive. On the savings front, you just cracked **$2,355.13 in cumulative fuel savings** and your breakeven math is razor-thin \u2014 you're literally **$3.55 away from net positive territory** when you factor in fuel savings plus $776.51 in avoided maintenance against that $3,135.19 insurance premium increase, meaning your next couple of home charges will technically push you into the black. \ud83c\udf89\n\n**This week's recommendation is simple and urgent: get that rear-right tire inspected at a shop** \u2014 not topped off, *inspected* \u2014 because two months of documented slow leak data suggests a nail, bead issue, or valve stem problem that no amount of air will permanently fix, and at 121 MPGe vs. your warm-weather potential of 130+ MPGe, you're leaving roughly **$0.50\u2013$0.80 per charge** on the table indefinitely.\n\n**The surprising number this week?** Your battery degradation actually *improved* slightly \u2014 from 9.0% on June 1st to **8.9% on June 3rd**, which sounds impossible but likely reflects a better-calibrated charge cycle at 51\u219280% SOC giving the BMS a more accurate read on true capacity at 35,659 miles.",
   "charge_history": [
     {
       "date": "2024-08-04",
