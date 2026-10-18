@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T08:00:16.356932",
+  "updated_at": "2026-10-18T08:00:16.963017",
   "vehicle": {
     "year": 2024,
     "model": "Model Y Performance",
@@ -15,17 +15,17 @@
     "total_fuel_savings": 2355.13,
     "avg_gas_equiv_mpg": 75.7,
     "breakeven": {
-      "net_savings": -3.55,
+      "net_savings": -24.21,
       "fuel_savings": 2355.13,
-      "maintenance_savings": 776.51,
-      "insurance_cost": 3135.19,
-      "breakeven_pct": -0.0,
+      "maintenance_savings": 783.32,
+      "insurance_cost": 3162.66,
+      "breakeven_pct": -0.1,
       "months_remaining": null,
       "tesla_premium": 38030.0
     },
-    "resale_value": 37968
+    "resale_value": 37916
   },
-  "ai_insight": "## Weekly Tesla Check-In | Week of June 3, 2026\n\n**Quiet week on the odometer** \u2014 zero miles logged this week, so we're essentially doing a snapshot analysis based on your last two charges rather than fresh driving data.\n\nYour **efficiency story is actually improving**: June 1st came in at a sluggish 112.4 MPGe, but June 3rd bounced back to **121.6 MPGe** \u2014 a solid 9-point recovery that lines up with your RR tire rebounding from its scary 37.7 PSI low back to 40.2 PSI, though that tire is *still* 1.8 PSI short of target after **30+ consecutive flagged sessions**, so the slow leak is doing real, measurable damage to your efficiency every single drive. On the savings front, you just cracked **$2,355.13 in cumulative fuel savings** and your breakeven math is razor-thin \u2014 you're literally **$3.55 away from net positive territory** when you factor in fuel savings plus $776.51 in avoided maintenance against that $3,135.19 insurance premium increase, meaning your next couple of home charges will technically push you into the black. \ud83c\udf89\n\n**This week's recommendation is simple and urgent: get that rear-right tire inspected at a shop** \u2014 not topped off, *inspected* \u2014 because two months of documented slow leak data suggests a nail, bead issue, or valve stem problem that no amount of air will permanently fix, and at 121 MPGe vs. your warm-weather potential of 130+ MPGe, you're leaving roughly **$0.50\u2013$0.80 per charge** on the table indefinitely.\n\n**The surprising number this week?** Your battery degradation actually *improved* slightly \u2014 from 9.0% on June 1st to **8.9% on June 3rd**, which sounds impossible but likely reflects a better-calibrated charge cycle at 51\u219280% SOC giving the BMS a more accurate read on true capacity at 35,659 miles.",
+  "ai_insight": "## Weekly Tesla Check-In | Week of June 3, 2026\n\n**Quiet week on the odometer** \u2014 zero miles logged this week, so there's nothing new to analyze on efficiency or charging, but your last two sessions tell a good story heading into the pause.\n\nYour efficiency actually **bounced back nicely**, jumping from 112.4 MPGe on June 1 to **121.6 MPGe on June 3** \u2014 that's nearly a 10-point swing, and while your tires deserve partial credit for RR recovering from its scary 37.7 PSI low back to 40.2 PSI, that rear right is *still* 1.8 PSI below target and has now been flagged across **30+ consecutive sessions**, which means you're essentially doing a science experiment on how much a slow leak costs you in efficiency every single day. The good news: you crossed **$2,355.13 in cumulative fuel savings** and your breakeven math is coming into focus \u2014 $38,030 Tesla premium to recoup, with fuel savings and $783 in avoided maintenance working in your favor, offset by $3,162 in extra insurance costs so far, putting net savings at **-$24.21**, meaning you're essentially at the doorstep of true breakeven. \n\n**This week's one action:** Book a tire inspection \u2014 not a top-off, an actual inspection for that RR slow leak. Thirty-plus sessions of documented pressure loss is a nail or a bad valve stem, not a coincidence, and fixing it could realistically recover 5-8 MPGe permanently.\n\n**Interesting footnote:** Your battery degradation actually *improved* slightly, ticking from 9.0% to **8.9%** between June 1 and June 3 \u2014 a reminder that degradation readings fluctuate with temperature and SOC, but at 35,659 miles it's still tracking reasonably well for a Performance model.",
   "charge_history": [
     {
       "date": "2024-08-04",
