@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T08:00:20.643092",
+  "updated_at": "2026-11-22T08:00:15.627113",
   "vehicle": {
     "year": 2024,
     "model": "Model Y Performance",
@@ -15,17 +15,17 @@
     "total_fuel_savings": 2355.13,
     "avg_gas_equiv_mpg": 75.7,
     "breakeven": {
-      "net_savings": -106.87,
+      "net_savings": -127.53,
       "fuel_savings": 2355.13,
-      "maintenance_savings": 810.53,
-      "insurance_cost": 3272.53,
+      "maintenance_savings": 817.33,
+      "insurance_cost": 3299.99,
       "breakeven_pct": -0.3,
       "months_remaining": null,
       "tesla_premium": 38030.0
     },
-    "resale_value": 37708
+    "resale_value": 37656
   },
-  "ai_insight": "## Weekly Tesla Report \u2014 Week of June 3, 2026\n\n**Quiet week on the odometer** \u2014 zero miles logged this week, so there's nothing new to analyze in terms of driving efficiency or charging behavior. That said, your last two charges tell a solid story heading into the week: you bounced back from a sluggish **112.4 MPGe on June 1** to a much healthier **121.6 MPGe on June 3**, which lines up with the RR tire recovering from its scary 37.7 PSI low back up to 40.2 PSI \u2014 still 1.8 PSI short of target, but clearly making a difference. On the savings front, you just crossed **$2,355.13 in cumulative fuel savings**, which sounds great until you stack it against the full picture: with $3,272.53 in extra insurance costs eating into your gains, your **net position is still -$106.87** against the $38,030 Tesla premium, meaning you're essentially at breakeven on the savings math but not yet positive. **This week's one action item is straightforward \u2014 get that rear-right tire inspected for a slow leak.** It's been flagged in 30+ consecutive sessions, no amount of topping off has solved it, and at $3.90/gal you're leaving real MPGe (and real dollars) on the table every single drive. The mildly surprising thing? Your battery degradation actually *improved* slightly \u2014 from 9.0% to **8.9%** between June 1 and June 3 \u2014 which is likely measurement noise, but at 35,659 miles it's reassuring that you're not seeing accelerated wear.",
+  "ai_insight": "## Weekly Tesla Check-In | Week of June 3, 2026\n\nNo miles logged this week \u2014 looks like the car stayed home (or the tracker took a breather), so we're working from your two most recent charges on June 1st and 3rd to close out the story.\n\nThe good news: efficiency bounced back nicely, jumping from **112.4 MPGe on June 1st to 121.6 MPGe on June 3rd** \u2014 that's nearly a 10-point recovery, and your tires deserve partial credit since the RR crept back up from its scary 37.7 PSI low toward 40.2 PSI, though it's *still* sitting 1.8 PSI below the 42 PSI target after **30+ consecutive sessions** of underinflation, which means you're almost certainly leaving another 5-10 MPGe on the table every single drive. On the savings front, you just crossed **$2,355.13 in cumulative fuel savings** \u2014 genuinely worth celebrating \u2014 but zooming out, you're still **$127.53 net negative** on the full breakeven calculation once that $119/month insurance premium is factored in against your $38,030 Tesla premium, putting you at roughly **-0.3% of the way to breakeven**. \n\n**This week's one ask:** Book a tire shop appointment for that RR slow leak \u2014 not next week, *this week* \u2014 because two months of topping off has clearly not solved it, and at 35,659 miles you've got plenty of tread life worth protecting. And here's the fun stat: your cumulative savings of $2,355.13 were built across **629 charges** starting from essentially dollar one back in Chattanooga in August 2024 \u2014 you were actually *losing* money per charge those first two supercharger sessions at $0.39/kWh vs. $2.75 gas, and home charging at $0.1154/kWh is what turned the whole story around.",
   "charge_history": [
     {
       "date": "2024-08-04",
